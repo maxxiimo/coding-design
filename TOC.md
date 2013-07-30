@@ -3,7 +3,7 @@ Table of Contents
 
 - [Cover][]
 
-### [Introduction ][]
+### [Introduction][]
   - [Paradigm Shift][]
 
 &sect;1 [Look and Feel][Section I]
