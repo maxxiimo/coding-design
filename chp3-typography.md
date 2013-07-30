@@ -67,7 +67,7 @@ Over the next several sections we will explore the basic building blocks of typo
 Font Family
 -----------
 
-When choosing a font family for a project you can try some of the fonts predefined in [_define.sass][] or try something else. To help you select an alternative I created a quick reference "[Font Stacks Roundup][Appendix 8]" located in the Appendices of this book.
+When choosing a font family for a project you can try some of the fonts predefined in [_define.sass][] or try something else. To help you select an alternative I created a quick reference "[Font Stacks Roundup][Appendix 4]" located in the Appendices of this book.
 
 When choosing a font family for a project try following these steps:
 
@@ -103,11 +103,11 @@ That is the message, and here are some adjectives that help communicate the mood
 12. Steadfast
 13. Friendly
 
-NOTE: I recommend listening to Jason Santa Maria's presentation "[On Web Typography][]". He gives excellent advice on picking typefaces (starting at minute 31:45). You can find this advice transcribed in [Appendix 10][Appendix 10].
+NOTE: I recommend listening to Jason Santa Maria's presentation "[On Web Typography][]". He gives excellent advice on picking typefaces (starting at minute 31:45). You can find this advice transcribed in [Appendix 6][Appendix 6].
 
 ### Step 2: Use a Font Service
 
-Using a font service to browse available fonts and deliver those fonts is a good idea. Font services eliminate the licensing headaches one might encounter with creative works, and also provides a CDN to efficiently serve fonts from. Some services are subscription based and others are free. I have listed a few in the "[Font Services and Tools][Appendix 9]" appendix.
+Using a font service to browse available fonts and deliver those fonts is a good idea. Font services eliminate the licensing headaches one might encounter with creative works, and also provides a CDN to efficiently serve fonts from. Some services are subscription based and others are free. I have listed a few in the "[Font Services and Tools][Appendix 5]" appendix.
 
 My preferred service is [Typekit][]. They provides an excellent [series of articles][articles] on implementing Typekit: [[I'll][]] [[spare][]] [[you][]] [[the][]] [[details][]].
 
@@ -121,9 +121,9 @@ Typekit is a paid service, [Google Web Fonts][] on the other hand is a free serv
 
 \- [A Beginner’s Guide to Pairing Fonts][Beginners Guide]
 
-When selecting font families I recommend reviewing the [Combinations][Appendix 8 Combos] section of Appendix 8. Here designers with substantial typographic knowledge and experience have paired fonts, described their personalities or feel, and provide samples to review and choose from.
+When selecting font families I recommend reviewing the [Combinations][Appendix 4 Combos] section of Appendix 4. Here designers with substantial typographic knowledge and experience have paired fonts, described their personalities or feel, and provide samples to review and choose from.
 
-A few Google Web Fonts pairing ideas derived from articles in Appendix 8 can be found in the starter styles:
+A few Google Web Fonts pairing ideas derived from articles in Appendix 4 can be found in the starter styles:
 
 - [_define.sass][]
 - [_head.html.haml][]
@@ -137,7 +137,7 @@ Finally, choose a typeface and give it a test drive. Here are some different ide
 ![][Fonts]
 <br>
 <br>
-As you can see, choosing fonts is a practice in trial and error. To help you frame the context of your decision making process take a look at the section entitled "[Choosing Typeface Articles][Appendix 10]" in Appendix 10.
+As you can see, choosing fonts is a practice in trial and error. To help you frame the context of your decision making process take a look at the section entitled "[Choosing Typeface Articles][Appendix 6]" in Appendix 6.
 
 For View Thought I wasn't too crazy about any of the default combinations and ended up choosing the following combination from Typekit:
 <br>
@@ -180,7 +180,7 @@ First, choose a unit of measurement: `px` vs. `em` vs. `%` vs. `pt` vs `rem`.
 
 In our starter code we use `%` to establish a baseline, and `em` to set font sizes for elements throughout the project.
 
-NOTE: If you're interested in the research for this basis to start from take a look at "[A Brief History of Web Font Sizes][Appendix 11]" in the appendices.
+NOTE: If you're interested in the research for this basis to start from take a look at "[A Brief History of Web Font Sizes][Appendix 7]" in the appendices.
 
 ### Base Font Size
 
@@ -370,11 +370,11 @@ And that's it! Here is what our site looks like with are new icon fonts, typefac
 [Manifesto]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/MANIFESTO.md
 [Chapter 3]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp3-foundation-styles.md#foundation-styles
 [Chapter 7]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp7-susy.md#susy
-[Appendix 8]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-8
-[Appendix 8 Combos]:    https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#combinations
-[Appendix 9]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-9
-[Appendix 10]:          https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-10
-[Appendix 12]:          https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-12
+[Appendix 4]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-4
+[Appendix 4 Combos]:    https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#combinations
+[Appendix 5]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-5
+[Appendix 6]:          https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-6
+[Appendix 8]:          https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-8
 
 [typography]:           http://blog.8thlight.com/billy-whited/2011/07/26/what-is-typography.html
 [95% typography]:       http://informationarchitects.net/blog/the-web-is-all-about-typography-period/

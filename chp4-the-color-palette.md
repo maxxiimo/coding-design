@@ -22,7 +22,7 @@ The basic steps and components include:
 Step 1: Pick a Color
 --------------------
 
-The first step in creating a color palette is to choose a base color. If you already have a logo to work with, the colors in the logo are good place to start from. Since I don't have a logo yet I'm going to borrow from a technique we used in the Font Family section of [Chapter 11][Adjectives]. Here is the list of adjectives used to choose a typeface:
+The first step in creating a color palette is to choose a base color. If you already have a logo to work with, the colors in the logo are good place to start from. Since I don't have a logo yet I'm going to borrow from a technique we used in the Font Family section of [Chapter 3][Adjectives]. Here is the list of adjectives used to choose a typeface:
 
 1.  Clean
 2.  Reliable
@@ -121,7 +121,7 @@ The color wheel is the basis from which our color choices will flow. It will hel
 <br>
 ![][Color Wheel]
 
-Fortunately for us, there are a number of online color wheels we can use. There is a list of them in the [Color Wheels][] section of Appendix 12, but before we use one familiarize yourself with the different ways you can derive colors on the color wheel:
+Fortunately for us, there are a number of online color wheels we can use. There is a list of them in the [Color Wheels][] section of Appendix 8, but before we use one familiarize yourself with the different ways you can derive colors on the color wheel:
 
 - [Analogous][]
 - [Complementary][]
@@ -217,7 +217,7 @@ After some heavy experimentation here are two ideas I came up with:
 [Color Wheels]:         https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#color-wheels
 [number of tools]:      https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#image-based-color-generators
 [Palettes]:             https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#palettes
-[Inspirational Sites]:  https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-5
+[Inspirational Sites]:  https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-1
 
 [9 Things]:             http://24ways.org/2011/nine-things-ive-learned/
 [Color Fundamentals]:   http://tympanus.net/codrops/2012/09/17/build-a-color-scheme-the-fundamentals/
@@ -225,7 +225,7 @@ After some heavy experimentation here are two ideas I came up with:
 [Color Matters]:        http://colormatters.com/color-and-design/basic-color-theory
 
 [The Meanings of Colors]: http://colormatters.com/color-symbolism/the-meanings-of-colors
-[Adjectives]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp11-typography.md#step-1-define-adjectives
+[Adjectives]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp3-typography.md#step-1-define-adjectives
 [Color in Motion]:      http://www.mariaclaudiacortes.com/colors/Colors.html
 [Color Psychology]:     http://careyjolliffe.files.wordpress.com/2013/02/cjga-color-theory-3.jpg
 [0to255]:               http://0to255.com/

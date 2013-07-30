@@ -16,12 +16,12 @@ Now it's time to build a user experience on this foundation: how your users will
 
 Back in 2008, at "An Event Apart: Boston," I listened to [Jason Santa Maria][] – then the Creative Director of Happy Cog Studios – give a presentation called "Good Design Ain't Easy." He described how stories were being told by design, with the designer in effect becoming the narrator. Another presenter at Fidelity Investments that same year also talked about storytelling and its importance in design. Although I no longer remember his name, I do remember his talks thesis: people understand and remember stories.
 
-These talks have stuck with me over the years, and they have become the way I view information architecting and visual design; as storytelling. What follows is an explanation of how to build a story for your website and translate that into code, and beginning with the [next chapter][Chapter 10] we will begin to explore creating the sites look and feel (visual design) from the same perspective.
+These talks have stuck with me over the years, and they have become the way I view information architecting and visual design; as storytelling. What follows is an explanation of how to build a story for your website and translate that into code, and beginning with the [next chapter][Chapter 2] we will begin to explore creating the sites look and feel (visual design) from the same perspective.
 
 As a front end developer, without getting super complex or requiring a gazillion dollars, there are three basic ways to go about designing a website:
 
 1. Start from scratch and architect and design everything yourself.
-2. Work with a graphic designer from the get-go and implement a design mockup into your foundation work ([Chapter 14 - Slicing and Dicing Mockups][Chapter 14]).
+2. Work with a graphic designer from the get-go and implement a design mockup into your foundation work ([Chapter 6 - Slicing and Dicing Mockups][Chapter 6]).
 3. Start from scratch and architect yourself, then get help from a graphic designer on the look and feel.
 
 In this chapter we're going to mostly focus on option 1. Hiring a graphic designer from the get-go is not a bad idea, but perhaps there isn't money in the budget, or this responsibility falls on your lap, or maybe you just want to do it yourself. To illustrate how simple option 1 can be take a look at this 2007 website concept:
@@ -171,7 +171,7 @@ To begin just simply translate what you indexed in the previous section into wha
 
 The end result: a well-defined user interface layout for my entire application.
 
-TIP: As you prototype always have an eye on your bookmarked reference websites, and/or some of the [inspirational sites][Appendix 5] listed in the Appendices. Revise and release often.
+TIP: As you prototype always have an eye on your bookmarked reference websites, and/or some of the [inspirational sites][Appendix 1] listed in the Appendices. Revise and release often.
 
 Here are some inspirational examples of prototyping on paper for your review:
 
@@ -225,7 +225,7 @@ It's best to get your content though, and the following articles will help you d
 - [Using Content Templates to Get Your Clients Thinking Content-First][Client Content]
 - [Content Templates to the Rescue][Content Templates]
 
-As a last resort you can use Lorem Ipsum or images as content placeholders, but it's important to stress that nothing can truly substitute for actual content so if you can find it, or create it, do so. I've put together a pretty comprehensive list of [placeholder services][Appendix 6] for your benefit in the Appendices. It includes text and image placeholder services.
+As a last resort you can use Lorem Ipsum or images as content placeholders, but it's important to stress that nothing can truly substitute for actual content so if you can find it, or create it, do so. I've put together a pretty comprehensive list of [placeholder services][Appendix 2] for your benefit in the Appendices. It includes text and image placeholder services.
 
 Although I like to use [Dummy Image][]'s as placeholders, I also keep a 1px x 1px transparent gif, sometimes referred to as a shim, in of the `assets/images/fixtures` folder. It can be used as follows to create image placeholders:
 
@@ -239,18 +239,18 @@ Don't forget to set the color:
 Feedback and Testing
 --------------------
 
-One very important thing to practice when designing interfaces is do nothing in isolation, and consider everything you think as intuitive to be wrong! (until proven otherwise) Iterating is key. Get feedback from your end users and refine. If you can't get to them, then ask your neighbor, a friend, or try one of the services listed in the [Feedback Services][Appendix 7] of the Appendices.
+One very important thing to practice when designing interfaces is do nothing in isolation, and consider everything you think as intuitive to be wrong! (until proven otherwise) Iterating is key. Get feedback from your end users and refine. If you can't get to them, then ask your neighbor, a friend, or try one of the services listed in the [Feedback Services][Appendix 3] of the Appendices.
 
 > Test across major browsers, devices, and in front of "real-life" users.
 \- [Manifesto][]
 
-Testing on actual devices is also very important. Resizing a browser window and/or using device simulators cannot substitute for an actual device. The "[Device Testing][Appendix 7]" section in of the Appendices lists several useful articles to get you started on testing or building your own testing lab. As a rule of thumb, test on at least four different devices: desktop, tablet, small tablet, and a smartphone. Walk into the Mac store, or Verizon, or AT&T if you have to and test away.
+Testing on actual devices is also very important. Resizing a browser window and/or using device simulators cannot substitute for an actual device. The "[Device Testing][Appendix 3]" section in of the Appendices lists several useful articles to get you started on testing or building your own testing lab. As a rule of thumb, test on at least four different devices: desktop, tablet, small tablet, and a smartphone. Walk into the Mac store, or Verizon, or AT&T if you have to and test away.
 
 At the end of our information architecting cycle, with our basic content and layouts in place, here's what we're left with across several different devices:
 
 ![][Multidevice]
 
-We were able to rapidly create wireframes across multiple devices by using [Susy breakpoints][Susy]. Now all that we need to do is make our wireframes look pretty! We will tackle this head beginning with Chapter 10, "[Visual Design for the Nondesigner][Chapter 10]".
+We were able to rapidly create wireframes across multiple devices by using [Susy breakpoints][Susy]. Now all that we need to do is make our wireframes look pretty! We will tackle this head beginning with Chapter 2, "[Visual Design for the Nondesigner][Chapter 2]".
 
 What We've Done
 ---------------
@@ -264,7 +264,7 @@ Understanding our own storyline, we began a process of converting our thoughts i
 
 Together these two exercises, along with the foundation code we already laid out in chapters 1 -  3, made wireframing a cinch. To further ease the creation process I also recommended the use of Susy, and ended with a quick talk on content.
 
-The end result of this chapter's work is a complete wireframe, ready for the next step in storytelling, but before we move onto visual design consider this for a moment: As front end developers we oftentimes think in terms of boxes. Notice our wireframe is essentially a layout of different content boxes. As we move into design mode [in the next chapter][Chapter 10] we need to completely change how we use our brains.
+The end result of this chapter's work is a complete wireframe, ready for the next step in storytelling, but before we move onto visual design consider this for a moment: As front end developers we oftentimes think in terms of boxes. Notice our wireframe is essentially a layout of different content boxes. As we move into design mode [in the next chapter][Chapter 2] we need to completely change how we use our brains.
 
 Just remember, less is more and KISS (Keep It Simple Stupid).
 
@@ -272,11 +272,11 @@ Just remember, less is more and KISS (Keep It Simple Stupid).
 [Chapter 1]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp1-foundation-markup.md#foundation-markup
 [Chapter 3]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp3-foundation-styles.md#foundation-styles
 [Chapter 5]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp5-mobile-foundation.md#mobile-foundation
-[Chapter 10]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp10-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
-[Chapter 14]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp14-slicing-and-dicing-mockups.md#slicing-and-dicing-mockups
-[Appendix 5]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-5
-[Appendix 6]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-6
-[Appendix 7]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-7
+[Chapter 2]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
+[Chapter 6]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp6-slicing-and-dicing-mockups.md#slicing-and-dicing-mockups
+[Appendix 1]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-1
+[Appendix 2]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-2
+[Appendix 3]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-3
 
 [Move People]:          http://hbr.org/web/special-collections/insight/communication/storytelling-that-moves-people
 [Jason Santa Maria]:    http://jasonsantamaria.com/

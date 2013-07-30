@@ -96,7 +96,7 @@ NOTE: Keep original files in a source folder within your application that is [ig
 
 Start sampling fonts to determine font-family, font-size, and color. Organize what you find in [_define.sass][]. As you move along you will begin to notice groupings and can reorganize and rename things as you work.
 
-The overall font-family is probably the most important thing you'll define right now. I use [CSS Font Stack][] to help me define the font-family. You will find a whole boatload of resources to help you in [Appendix 8][].
+The overall font-family is probably the most important thing you'll define right now. I use [CSS Font Stack][] to help me define the font-family. You will find a whole boatload of resources to help you in [Appendix 4][].
 
 NOTE: As you're moving along there'll be times that you will need to add a note for yourself so that you can revisit something. When adding notes in your code I like to use something like this:
 
@@ -303,7 +303,7 @@ Why do this from the get-go? Well you know you will have icons and you already h
 [ignored]:              https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp2-markup-review.md#markup-review#gitignore
 
 [_define.sass]:         https://github.com/maxxiimo/base-css/blob/master/app/assets/stylesheets/_define.sass
-[Appendix 8]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-8
+[Appendix 4]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-4
 
 [application]:          https://github.com/maxxiimo/base-haml/blob/master/views/layouts/application.html.haml
 

@@ -79,7 +79,7 @@ Navigation
 Design Details
 --------------
 
-It's the little things that sometimes can make a big difference. Take for example quotes. We could always use regular quote characters: `&#147;` and `&#148;`, or the equivalent HTML entities: `&ldquo;` and `&rdquo;`, but That's a little bit too plain Jane for me. I have an idea on what I want, those giant quotes I see on some sites, but before I head down that path, I'm going to first check my [inspiration resources][Appendix 5].  Whenever designing it's a good idea to check your inspirational resources see how others might have implemented your idea, or possibly find something better suited for your projects content or use case. I did a quick search on [Pattern Tap][]:
+It's the little things that sometimes can make a big difference. Take for example quotes. We could always use regular quote characters: `&#147;` and `&#148;`, or the equivalent HTML entities: `&ldquo;` and `&rdquo;`, but That's a little bit too plain Jane for me. I have an idea on what I want, those giant quotes I see on some sites, but before I head down that path, I'm going to first check my [inspiration resources][Appendix 1].  Whenever designing it's a good idea to check your inspirational resources see how others might have implemented your idea, or possibly find something better suited for your projects content or use case. I did a quick search on [Pattern Tap][]:
 <br>
 <br>
 ![][Quote examples]
@@ -94,7 +94,7 @@ There are some good ideas there, including my giant curly quotes. I'm going to s
 
 For View Thought I will add an icon font quote to my passage and use the techniques in the [24 Ways][Swooshy] article to style it so that it stands out. I included a few different types of quote characters in [my font library][Font Library] to experiment with.
 
-NOTE: Make sure you complete the Chapter 10 icon font [set up steps][Icon Fonts].
+NOTE: Make sure you complete the Chapter 2 icon font [set up steps][Icon Fonts].
 
 To begin, add the following icon font `%span` within the `%blockquote` you would like to include the quote character in:
 
@@ -121,7 +121,7 @@ And that's it. I experimented a little and from my experimental set I like the s
 Example Design Workflow
 -----------------------
 
-In this example we have our basic content, somewhat refined since we first architected it in [Chapter 9][]:
+In this example we have our basic content, somewhat refined since we first architected it in [Chapter 1][]:
 <br>
 <br>
 <br>
@@ -452,15 +452,15 @@ Here are the styles that accomplished this look:
 NOTE: The `+shadow-3` mixin is included in the [starter styles][].
 
 
-[Chapter 9]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp9-information-architecting.md#information-architecting
-[Icon Fonts]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp10-visual-design-for-the-nondesigner.md#creating-your-own-set
-[Appendix 5]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-5
+[Chapter 1]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp1-information-architecting.md#information-architecting
+[Icon Fonts]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp2-visual-design-for-the-nondesigner.md#creating-your-own-set
+[Appendix 1]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-1
 
 [Pattern Tap]:          http://patterntap.com/
 [Swooshy]:              http://24ways.org/2005/swooshy-curly-quotes-without-images/
 [Curly Quotes]:         http://www.nealgrosskopf.com/tech/thread.php?pid=21
 [Block Quotes]:         http://tympanus.net/codrops/2012/07/25/modern-block-quote-styles/
-[Font Library]:         https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp10-visual-design-for-the-nondesigner.md#icon-fonts-to-play-with
+[Font Library]:         https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp2-visual-design-for-the-nondesigner.md#icon-fonts-to-play-with
 [starter styles]:       https://github.com/maxxiimo/base-css/blob/master/app/assets/stylesheets/_mixins.sass
 
 [Taming Lists]:         http://alistapart.com/article/taminglists

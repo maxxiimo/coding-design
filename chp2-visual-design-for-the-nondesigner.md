@@ -1,7 +1,7 @@
 Visual Design for the Nondesigner
 =================================
 
-In the [last chapter][Chapter 9] our focus was Information Architecture, and in that chapter I emphasized storytelling while purposefully deemphasizing design. Here is why:
+In the [last chapter][Chapter 1] our focus was Information Architecture, and in that chapter I emphasized storytelling while purposefully deemphasizing design. Here is why:
 
 > Firstly, think about what your pages do, not what they look like. Let your design flow from the services which they will provide to your users, rather than from some overarching idea of what you want pages to look like. Let form follow function, rather than trying to take a particular design and make it "work".
 
@@ -15,9 +15,9 @@ The combination of:
 - harmony
 - icons
 - images
-- typography ([Chapter 11][])
-- color ([Chapter 12][])
-- embellishments ([Chapter 13][])
+- typography ([Chapter 3][])
+- color ([Chapter 4][])
+- embellishments ([Chapter 5][])
 
 ...are the largest contributors to a sites look and feel. In this chapter we explore the first four items on the list, but first let me make an observation relevant to your role as a front end engineer and design.
 
@@ -66,7 +66,7 @@ If you find yourself in this situation, like I am right now, the approach I reco
 <br>
 <br>
 <br>
-It's just stylized text, and I like it. If I do this for View Thought all that's really left for me to do is find the right typeface for my logo. In the next chapter we're going to thoroughly explore typography, but jumping ahead, based on the teachings of that Chapter 11 I created the following simple logo:
+It's just stylized text, and I like it. If I do this for View Thought all that's really left for me to do is find the right typeface for my logo. In the next chapter we're going to thoroughly explore typography, but jumping ahead, based on the teachings of that Chapter 3 I created the following simple logo:
 
 ![][Logo]
 
@@ -108,7 +108,7 @@ To create this I used a [Modular Scale][] tool. The tool requests three variable
 Modular skills is a subject worth researching. I think it makes a huge difference in your design, as a whole harmonious creation. If you're interested in learning more, take a look at the following resources:
 
 - [Tim Brown - More Perfect Typography][Perfect Typography] (Go to minute 15:00, great talk.)
-- Articles 10, 11, and 12 in Appendix 11, [A Brief History of Web Font Sizes][Appendix 11]
+- Articles 10, 11, and 12 in Appendix 7, [A Brief History of Web Font Sizes][Appendix 7]
 
 ***Now what I do with my scale?***
 
@@ -437,13 +437,13 @@ I'm going to have a contact us form on the site and thought this would be  a gre
 
 [Can I use...]:                     http://caniuse.com/
 
-[Chapter 9]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp9-information-architecting.md#information-architecting
-[Chapter 10]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp10-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
-[Chapter 11]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp11-typography.md#typography
-[Chapter 12]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp12-the-color-palette.md#the-color-palette
-[Chapter 13]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp13-embellishments.md#embellishments
+[Chapter 1]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp1-information-architecting.md#information-architecting
+[Chapter 2]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
+[Chapter 3]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp3-typography.md#typography
+[Chapter 4]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp4-the-color-palette.md#the-color-palette
+[Chapter 5]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp5-embellishments.md#embellishments
 [Appendix 1]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-1
-[Appendix 11]:          https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-11
+[Appendix 7]:          https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-7
 
 [Dao]:                  http://www.alistapart.com/articles/dao
 [Story Design]:         http://24ways.org/2011/design-the-invisible/
