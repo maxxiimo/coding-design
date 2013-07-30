@@ -1,16 +1,9 @@
-The Front End Manifesto
-=======================
+Coding Design
+=============
 
 by Chris Maxwell
 
-*A research-based How To<br>
-on best practices for writing<br>
-well organized mobile to desktop...*
-
-**Front End Code**
-
-
-Personal views and direction on front end coding from a Ruby on Rails perspective.
+Personal views and direction on coding design for the non-designer from a Ruby on Rails perspective.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
   <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>
@@ -20,4 +13,4 @@ Personal views and direction on front end coding from a Ruby on Rails perspectiv
 
 [Table of Contents][TOC]
 
-[TOC]:                  https://github.com/maxxiimo/the-front-end-manifesto/blob/master/TOC.md#table-of-contents
+[TOC]:                  https://github.com/maxxiimo/coding-design/blob/master/TOC.md#table-of-contents

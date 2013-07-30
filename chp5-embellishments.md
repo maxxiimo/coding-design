@@ -452,15 +452,15 @@ Here are the styles that accomplished this look:
 NOTE: The `+shadow-3` mixin is included in the [starter styles][].
 
 
-[Chapter 1]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp1-information-architecting.md#information-architecting
-[Icon Fonts]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp2-visual-design-for-the-nondesigner.md#creating-your-own-set
-[Appendix 1]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-1
+[Chapter 1]:            https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#information-architecting
+[Icon Fonts]:           https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#creating-your-own-set
+[Appendix 1]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-1
 
 [Pattern Tap]:          http://patterntap.com/
 [Swooshy]:              http://24ways.org/2005/swooshy-curly-quotes-without-images/
 [Curly Quotes]:         http://www.nealgrosskopf.com/tech/thread.php?pid=21
 [Block Quotes]:         http://tympanus.net/codrops/2012/07/25/modern-block-quote-styles/
-[Font Library]:         https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp2-visual-design-for-the-nondesigner.md#icon-fonts-to-play-with
+[Font Library]:         https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#icon-fonts-to-play-with
 [starter styles]:       https://github.com/maxxiimo/base-css/blob/master/app/assets/stylesheets/_mixins.sass
 
 [Taming Lists]:         http://alistapart.com/article/taminglists

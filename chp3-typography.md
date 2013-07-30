@@ -367,14 +367,14 @@ And that's it! Here is what our site looks like with are new icon fonts, typefac
 
 ![][Multidevice]
 
-[Manifesto]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/MANIFESTO.md
-[Chapter 3]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp3-foundation-styles.md#foundation-styles
-[Chapter 7]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp7-susy.md#susy
-[Appendix 4]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-4
-[Appendix 4 Combos]:    https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#combinations
-[Appendix 5]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-5
-[Appendix 6]:          https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-6
-[Appendix 8]:          https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-8
+[Manifesto]:            https://github.com/maxxiimo/coding-design/blob/master/MANIFESTO.md
+[Chapter 3]:            https://github.com/maxxiimo/coding-design/blob/master/chp3-foundation-styles.md#foundation-styles
+[Chapter 7]:            https://github.com/maxxiimo/coding-design/blob/master/chp7-susy.md#susy
+[Appendix 4]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-4
+[Appendix 4 Combos]:    https://github.com/maxxiimo/coding-design/blob/master/appendices.md#combinations
+[Appendix 5]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-5
+[Appendix 6]:          https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-6
+[Appendix 8]:          https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-8
 
 [typography]:           http://blog.8thlight.com/billy-whited/2011/07/26/what-is-typography.html
 [95% typography]:       http://informationarchitects.net/blog/the-web-is-all-about-typography-period/
@@ -402,10 +402,10 @@ And that's it! Here is what our site looks like with are new icon fonts, typefac
 [CamingoDos Web]:       http://www.janfromm.de/typefaces/camingodos/overview/
 
 [generic font]:         http://www.w3.org/TR/CSS2/fonts.html#generic-font-families
-[Font Stack Roundup]:   https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#font-stack-roundup
+[Font Stack Roundup]:   https://github.com/maxxiimo/coding-design/blob/master/appendices.md#font-stack-roundup
 [Complete Guide]:       http://www.apaddedcell.com/web-fonts
 
-[Resets]:               https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp4-stylesheet-review.md#stylesheet-review#resets
+[Resets]:               https://github.com/maxxiimo/coding-design/blob/master/chp4-stylesheet-review.md#stylesheet-review#resets
 [implementation]:       https://github.com/maxxiimo/base-resets/blob/master/_h5bp_normalize_v102.scss
 
 [Ideal Line Length]:    http://www.maxdesign.com.au/articles/em/

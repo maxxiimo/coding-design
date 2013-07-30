@@ -14,9 +14,9 @@ Look and Feel
 #### Chapter 6 - [Slicing and Dicing Mockups][Chapter 6]
 
 
-[Chapter 1]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp1-information-architecting.md#information-architecting
-[Chapter 2]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
-[Chapter 3]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp3-typography.md#typography
-[Chapter 4]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp4-the-color-palette.md#the-color-palette
-[Chapter 5]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp5-embellishments.md#embellishments
-[Chapter 6]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp6-slicing-and-dicing-mockups.md#slicing-and-dicing-mockups
+[Chapter 1]:           https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#information-architecting
+[Chapter 2]:           https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
+[Chapter 3]:           https://github.com/maxxiimo/coding-design/blob/master/chp3-typography.md#typography
+[Chapter 4]:           https://github.com/maxxiimo/coding-design/blob/master/chp4-the-color-palette.md#the-color-palette
+[Chapter 5]:           https://github.com/maxxiimo/coding-design/blob/master/chp5-embellishments.md#embellishments
+[Chapter 6]:           https://github.com/maxxiimo/coding-design/blob/master/chp6-slicing-and-dicing-mockups.md#slicing-and-dicing-mockups

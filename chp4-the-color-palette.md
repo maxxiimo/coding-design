@@ -214,10 +214,10 @@ After some heavy experimentation here are two ideas I came up with:
 [Opacity]:             http://compass-style.org/examples/compass/css3/opacity/
 
 
-[Color Wheels]:         https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#color-wheels
-[number of tools]:      https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#image-based-color-generators
-[Palettes]:             https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#palettes
-[Inspirational Sites]:  https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-1
+[Color Wheels]:         https://github.com/maxxiimo/coding-design/blob/master/appendices.md#color-wheels
+[number of tools]:      https://github.com/maxxiimo/coding-design/blob/master/appendices.md#image-based-color-generators
+[Palettes]:             https://github.com/maxxiimo/coding-design/blob/master/appendices.md#palettes
+[Inspirational Sites]:  https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-1
 
 [9 Things]:             http://24ways.org/2011/nine-things-ive-learned/
 [Color Fundamentals]:   http://tympanus.net/codrops/2012/09/17/build-a-color-scheme-the-fundamentals/
@@ -225,7 +225,7 @@ After some heavy experimentation here are two ideas I came up with:
 [Color Matters]:        http://colormatters.com/color-and-design/basic-color-theory
 
 [The Meanings of Colors]: http://colormatters.com/color-symbolism/the-meanings-of-colors
-[Adjectives]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp3-typography.md#step-1-define-adjectives
+[Adjectives]:           https://github.com/maxxiimo/coding-design/blob/master/chp3-typography.md#step-1-define-adjectives
 [Color in Motion]:      http://www.mariaclaudiacortes.com/colors/Colors.html
 [Color Psychology]:     http://careyjolliffe.files.wordpress.com/2013/02/cjga-color-theory-3.jpg
 [0to255]:               http://0to255.com/

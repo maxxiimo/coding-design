@@ -268,20 +268,20 @@ The end result of this chapter's work is a complete wireframe, ready for the nex
 
 Just remember, less is more and KISS (Keep It Simple Stupid).
 
-[Manifesto]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/MANIFESTO.md
-[Chapter 1]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp1-foundation-markup.md#foundation-markup
-[Chapter 3]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp3-foundation-styles.md#foundation-styles
-[Chapter 5]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp5-mobile-foundation.md#mobile-foundation
-[Chapter 2]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
-[Chapter 6]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp6-slicing-and-dicing-mockups.md#slicing-and-dicing-mockups
-[Appendix 1]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-1
-[Appendix 2]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-2
-[Appendix 3]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-3
+[Manifesto]:            https://github.com/maxxiimo/coding-design/blob/master/MANIFESTO.md
+[Chapter 1]:            https://github.com/maxxiimo/coding-design/blob/master/chp1-foundation-markup.md#foundation-markup
+[Chapter 3]:            https://github.com/maxxiimo/coding-design/blob/master/chp3-foundation-styles.md#foundation-styles
+[Chapter 5]:            https://github.com/maxxiimo/coding-design/blob/master/chp5-mobile-foundation.md#mobile-foundation
+[Chapter 2]:           https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
+[Chapter 6]:           https://github.com/maxxiimo/coding-design/blob/master/chp6-slicing-and-dicing-mockups.md#slicing-and-dicing-mockups
+[Appendix 1]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-1
+[Appendix 2]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-2
+[Appendix 3]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-3
 
 [Move People]:          http://hbr.org/web/special-collections/insight/communication/storytelling-that-moves-people
 [Jason Santa Maria]:    http://jasonsantamaria.com/
 
-[Chapter 1 Quote]:      https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp1-foundation-markup.md#foundation-markup#the-application-layout
+[Chapter 1 Quote]:      https://github.com/maxxiimo/coding-design/blob/master/chp1-foundation-markup.md#foundation-markup#the-application-layout
 [Wikipedia]:            https://en.wikipedia.org/wiki/Mosaic
 
 [Don't Make Me Think]:  http://www.sensible.com/index.html
@@ -295,7 +295,7 @@ Just remember, less is more and KISS (Keep It Simple Stupid).
 [Mobile Sketching]:     http://uxdesign.smashingmagazine.com/2012/09/18/free-download-ux-sketching-wireframing-templates-mobile/
 [Inspirational]:        http://webdesignledger.com/inspiration/ui-wireframe-sketches-for-your-inspiration
 
-[Chapter 5 - Susy]:     https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp5-mobile-foundation.md#mobile-foundation#using-susy
+[Chapter 5 - Susy]:     https://github.com/maxxiimo/coding-design/blob/master/chp5-mobile-foundation.md#mobile-foundation#using-susy
 [Compass offers]:       http://compass-style.org/reference/compass/layout/grid_background/
 
 [Content First]:        http://alwaystwisted.com/post.php?s=2012-10-13-content-first
@@ -303,7 +303,7 @@ Just remember, less is more and KISS (Keep It Simple Stupid).
 [Content Templates]:    http://alistapart.com/article/content-templates-to-the-rescue
 [Dummy Image]:          http://dummyimage.com
 
-[Susy]:                 https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp3-mobile-on-rails.md#susy-breakpoints
+[Susy]:                 https://github.com/maxxiimo/coding-design/blob/master/chp3-mobile-on-rails.md#susy-breakpoints
 
 [Mosaic]:               http://chrismaxwell.com/manifesto/chp-9/mosaic-800px.gif
 [Index Card Reference]: http://chrismaxwell.com/manifesto/chp-9/index-cards/index-card-reference.gif

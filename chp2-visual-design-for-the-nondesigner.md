@@ -437,13 +437,13 @@ I'm going to have a contact us form on the site and thought this would be  a gre
 
 [Can I use...]:                     http://caniuse.com/
 
-[Chapter 1]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp1-information-architecting.md#information-architecting
-[Chapter 2]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
-[Chapter 3]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp3-typography.md#typography
-[Chapter 4]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp4-the-color-palette.md#the-color-palette
-[Chapter 5]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp5-embellishments.md#embellishments
-[Appendix 1]:           https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-1
-[Appendix 7]:          https://github.com/maxxiimo/the-front-end-manifesto/blob/master/appendices.md#appendix-7
+[Chapter 1]:            https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#information-architecting
+[Chapter 2]:           https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
+[Chapter 3]:           https://github.com/maxxiimo/coding-design/blob/master/chp3-typography.md#typography
+[Chapter 4]:           https://github.com/maxxiimo/coding-design/blob/master/chp4-the-color-palette.md#the-color-palette
+[Chapter 5]:           https://github.com/maxxiimo/coding-design/blob/master/chp5-embellishments.md#embellishments
+[Appendix 1]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-1
+[Appendix 7]:          https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-7
 
 [Dao]:                  http://www.alistapart.com/articles/dao
 [Story Design]:         http://24ways.org/2011/design-the-invisible/
