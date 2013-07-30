@@ -3,6 +3,9 @@ Table of Contents
 
 - [Cover][]
 
+### [Introduction ][]
+  - [Paradigm Shift][]
+
 &sect;1 [Look and Feel][Section I]
 ------------------------------------
 
@@ -20,7 +23,6 @@ Table of Contents
   - [What We've Done][]
 
 ### Chapter 2 - [Visual Design for the Nondesigner][Chapter 2]
-  - [Paradigm Shift][]
   - [Branding][]
   - [Modular Scales][]
   - [Icons][]
@@ -94,6 +96,8 @@ Table of Contents
 
 [Cover]:                https://github.com/maxxiimo/coding-design/blob/master/COVER.md#the-front-end-manifesto
 
+[Introduction]:         https://github.com/maxxiimo/coding-design/blob/master/introduction.md#introduction
+
 [Section I]:            https://github.com/maxxiimo/coding-design/blob/master/section-1.md#look-and-feel
 [Chapter 1]:            https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#information-architecting
 [Chapter 2]:            https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
@@ -103,6 +107,8 @@ Table of Contents
 [Chapter 6]:            https://github.com/maxxiimo/coding-design/blob/master/chp6-slicing-and-dicing-mockups.md#slicing-and-dicing-mockups
 
 [Appendices]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendices
+
+[Paradigm Shift]:       https://github.com/maxxiimo/coding-design/blob/master/introduction.md#paradigm-shift
 
 [Storytelling in Web Design]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#storytelling-in-web-design
 [A Mosaic of Information]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#a-mosaic-of-information
@@ -116,7 +122,6 @@ Table of Contents
 [Feedback and Testing]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#feedback-and-testing
 [What We've Done]:      https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#what-weve-done
 
-[Paradigm Shift]:       https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#paradigm-shift
 [Branding]:             https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#branding
 [Modular Scales]:       https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#modular-scales
 [Icons]:                https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#icons
