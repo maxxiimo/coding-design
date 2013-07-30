@@ -3,7 +3,7 @@ Table of Contents
 
 - [Cover][]
 
-&sect;1 [Look and Feel][Section III]
+&sect;1 [Look and Feel][Section I]
 ------------------------------------
 
 ### Chapter 1 - [Information Architecting][Chapter 1]
@@ -94,7 +94,7 @@ Table of Contents
 
 [Cover]:                https://github.com/maxxiimo/the-front-end-manifesto/blob/master/COVER.md#the-front-end-manifesto
 
-[Section I]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/section-3.md#look-and-feel
+[Section I]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/section-1.md#look-and-feel
 [Chapter 1]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp1-information-architecting.md#information-architecting
 [Chapter 2]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
 [Chapter 3]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp3-typography.md#typography
