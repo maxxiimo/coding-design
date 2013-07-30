@@ -3,7 +3,11 @@ Coding Design
 
 by Chris Maxwell
 
-Personal views and direction on coding design for the non-designer from a Ruby on Rails perspective.
+A How To on great Web design<br>
+with a developer's toolset:<br>
+CSS3, HTML5, and a browser.
+
+The ins and outs of creating and coding great design.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
   <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>
