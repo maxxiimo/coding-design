@@ -1,6 +1,10 @@
 Embellishments
 ==============
 
+Speech Bubble Arrows that Inherit Parent Color
+
+http://css-tricks.com/speech-bubble-arrows-that-inherit-parent-color/
+
 
 The Power of CSS
 ----------------
