@@ -93,6 +93,7 @@ Table of Contents
 - Appendix 6: [Choosing Typefaces][Appendix 6]
 - Appendix 7: [A Brief History of Web Font Sizes][Appendix 7]
 - Appendix 8: [Color Palettes, Tools and Collections][Appendix 8]
+- Appendix 9: [Browser and Mobile Testing][Appendix 9]
 
 [Cover]:                https://github.com/maxxiimo/coding-design/blob/master/COVER.md#the-front-end-manifesto
 
@@ -182,7 +183,8 @@ Table of Contents
 [Appendix 3]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-3
 [Appendix 4]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-4
 [Appendix 5]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-5
-[Appendix 6]:          https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-6
-[Appendix 7]:          https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-7
-[Appendix 8]:          https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-8
+[Appendix 6]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-6
+[Appendix 7]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-7
+[Appendix 8]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-8
+[Appendix 9]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-9
 

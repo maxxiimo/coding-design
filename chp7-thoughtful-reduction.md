@@ -9,7 +9,7 @@ A couple key questions to ask yourself:
 
 2. Is this content really necessary? Don't get attached to content either. Less is more. Keep it simple stupid. There's a reason people say these things. Ask yourself if the content is really contributing to the story, or is it just fluff that sounds good?
 
-With these questions  in mind start reviewing your website, and don't do it alone! Get some feedback. Create a second branch,, call it "thoughtful-reduction", and like a sculptor, start whittling away until you are left with the bare essence of your website.
+With these questions  in mind start reviewing your website, and don't do it alone! Get some feedback. Create a second branch, call it "thoughtful-reduction", and like a sculptor, start whittling away until you are left with the bare essence of your website.
 
 The great thing about mobile first is that this approach really helps you, right from the get-go, whittle away at the gruff, but don't stop now. Keep at it.
 
@@ -70,3 +70,30 @@ That also seems like an interesting idea for the use of traditional navigation s
 Now people will know that I'm on all of these different social services – which they probably use, and they'll know this the moment they land on View Thought. I want them to. I want to be found.
 
 As you read each panel are you feeling the story moving from panel to panel? I'm not. It's like elements of the story are there, but it's disjointed. I need to fix this.
+
+Test, Test, Test
+----------------
+
+### User Aging Switcher
+
+Throughout development I'm always switching between different
+
+### JavaScript on and off
+
+### Ask friends
+
+### Different devices
+
+### Services
+
+### Emulators
+
+### Cross browser
+
+### CSS3 fallbacks and/or Polyfills
+
+modernizr.js
+
+    <html lang=en
+    class="js no-rgba no-borderradius no-boxshadow no-textshadow no-opacity no-cssanimations no-cssgradients no-csstransforms no-csstransforms3d no-csstransitions fontface generatedcontent skrollr skrollr-desktop wf-camingodosweb-n7-inactive wf-camingodoswebn7-n7-inactive wf-quatro-n9-inactive wf-quatron9-n9-inactive wf-rooneyweb-i4-inactive wf-rooneyweb-i7-inactive wf-rooneyweb-n4-inactive wf-rooneyweb-n7-inactive wf-rooneywebi4-i4-inactive wf-rooneywebi7-i7-inactive wf-rooneywebn4-n4-inactive wf-rooneywebn7-n7-inactive wf-inactive">
+
