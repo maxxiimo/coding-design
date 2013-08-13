@@ -6,7 +6,7 @@ In [The Front End Manifesto][Front End Manifesto] we laid down the foundation of
 1. Defining our base [markup][Chapter 1] and [styles][Chapter 3].
 2. Choosing a [mobile][Chapter 5] content delivery strategy.
 
-NOTE: You do not need to read *The Front End Manifesto* to follow along in this book, although if you are setting up a Ruby on Rails application it wouldn't be a bad idea to do so.
+NOTE: You do not need to read *The Front End Manifesto* to follow along with this book, although if you are setting up a Ruby on Rails application it wouldn't be a bad idea to do so.
 
 Now it's time to build a user experience on this foundation: how your users will understand your [whatever you're building] and how they will [whatever they will do]. The key to being successful in building your applications user experience can be summed up in one word: **Storytelling**.
 
@@ -16,9 +16,9 @@ Now it's time to build a user experience on this foundation: how your users will
 
 ### Storytelling in Web Design
 
-Back in 2008, at "An Event Apart: Boston," I listened to [Jason Santa Maria][] – then the Creative Director of Happy Cog Studios – give a presentation called "Good Design Ain't Easy." He described how stories were being told by design, with the designer in effect becoming the narrator. Another presenter at Fidelity Investments that same year also talked about storytelling and its importance in design. Although I no longer remember his name, I do remember his talks thesis: people understand and remember stories.
+Back in 2008, at "An Event Apart: Boston," I listened to [Jason Santa Maria][] – then the Creative Director of Happy Cog Studios – give a presentation called "Good Design Ain't Easy." In his presentation he described how stories were being told by design, with the designer in effect becoming the narrator. Another presenter at Fidelity Investments that same year also talked about storytelling and its importance in design. Although I no longer remember his name, I do remember his talks thesis: people understand and remember stories.
 
-These talks have stuck with me over the years, and they have become the way I view information architecting and visual design; as storytelling. What follows is an explanation of how to build a story for your website and translate that into code, and beginning with the [next chapter][Chapter 2] we will begin to explore creating the sites look and feel (visual design) from the same perspective.
+These talks have stuck with me over the years, and they have become the way I view information architecting and visual design; as storytelling. What follows is an explanation of how to build a story for your website and translate that into code, and beginning with [Chapter 2][] we will begin to explore creating the sites "look and feel" (visual design) from the same perspective of storytelling.
 
 As a front end developer, without getting super complex or requiring a gazillion dollars, there are three basic ways to go about designing a website:
 
@@ -30,7 +30,7 @@ In this chapter we're going to mostly focus on option 1. Hiring a graphic design
 
 - http://noonebelongsheremorethanyou.com/00025
 
-Jason Santa Maria pointed out this site in that presentation he gave. What I like about it is that it demonstrates the simplicity of storytelling: the entire site is written on kitchen appliances! ...and at the same time engages the user and ultimately delivers a message to entice action. We want to do this.
+Jason Santa Maria pointed out this site in in his 2008 presentation I mentioned. What I like about the website is that it demonstrates the simplicity of storytelling: the entire site is written on kitchen appliances! ...and at the same time engages the user and ultimately delivers a message to entice action. We want to do this.
 
 A Mosaic of Information
 -----------------------

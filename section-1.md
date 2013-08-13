@@ -1,8 +1,6 @@
 Look and Feel
 -------------
 
-#### Chapter 1 - [Information Architecting][Chapter 1]
-
 #### Chapter 2 - [Visual Design for the Nondesigner][Chapter 2]
 
 #### Chapter 3 - [Typography][Chapter 3]

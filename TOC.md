@@ -8,7 +8,7 @@ Table of Contents
 ### [Prologue][]
   - [Paradigm Shift][]
 
-&sect;1 [Look and Feel][Section I]
+&sect;1 [Content][Section I]
 ------------------------------------
 
 ### Chapter 1 - [Information Architecting][Chapter 1]
@@ -23,6 +23,9 @@ Table of Contents
       - [Content][]
   - [Feedback and Testing][]
   - [What We've Done][]
+
+&sect;2 [Look and Feel][Section II]
+------------------------------------
 
 ### Chapter 2 - [Visual Design for the Nondesigner][Chapter 2]
   - [Branding][]
@@ -99,7 +102,9 @@ Table of Contents
 
 [Cover]:                https://github.com/maxxiimo/coding-design/blob/master/COVER.md#the-front-end-manifesto
 
-[Section I]:            https://github.com/maxxiimo/coding-design/blob/master/section-1.md#look-and-feel
+[Section I]:            https://github.com/maxxiimo/coding-design/blob/master/section-1.md#content
+[Section II]:           https://github.com/maxxiimo/coding-design/blob/master/section-2.md#look-and-feel
+
 [Chapter 1]:            https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#information-architecting
 [Chapter 2]:            https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
 [Chapter 3]:            https://github.com/maxxiimo/coding-design/blob/master/chp3-typography.md#typography
