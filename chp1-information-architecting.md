@@ -180,7 +180,7 @@ Here are some device mockup resources that will help you sketch:
 - [Interface Sketch][]
 - [UX Sketching And Wireframing Templates For Mobile Projects][Mobile Sketching]
 
-To begin just simply translate what you indexed in the previous section into what it might look like on a screen.
+**Step 1**: To begin just simply translate what you indexed in the previous section into what it might look like on a scree, and that's it. There is no Step 2, just a lot of erasing between when you begin and when you end.
 
 Here's what my paper prototype process looks like starting with a blank sheet of paper next to my index cards and ending with a paper prototype:
 
@@ -188,7 +188,7 @@ Here's what my paper prototype process looks like starting with a blank sheet of
 
 The end result: a well-defined user interface layout for my entire application.
 
-TIP: As you prototype always have an eye on your bookmarked reference websites, and/or some of the [inspirational sites][Appendix 1] listed in the Appendices. Revise and release often.
+TIP: As you prototype always have an eye on your bookmarked reference websites, and/or some of the [inspirational sites][Appendix 1] listed in the Appendices.
 
 How are other people doing this?
 
