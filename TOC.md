@@ -5,7 +5,7 @@ Table of Contents
 
 ### [Introduction][]
 
-### Prologue
+### [Prologue][]
   - [Paradigm Shift][]
 
 &sect;1 [Look and Feel][Section I]
@@ -99,8 +99,6 @@ Table of Contents
 
 [Cover]:                https://github.com/maxxiimo/coding-design/blob/master/COVER.md#the-front-end-manifesto
 
-[Introduction]:         https://github.com/maxxiimo/coding-design/blob/master/introduction.md#introduction
-
 [Section I]:            https://github.com/maxxiimo/coding-design/blob/master/section-1.md#look-and-feel
 [Chapter 1]:            https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#information-architecting
 [Chapter 2]:            https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
@@ -111,6 +109,8 @@ Table of Contents
 
 [Appendices]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendices
 
+[Introduction]:         https://github.com/maxxiimo/coding-design/blob/master/introduction.md#introduction
+[Prologue]:             https://github.com/maxxiimo/coding-design/blob/master/prologue.md#prologue
 [Paradigm Shift]:       https://github.com/maxxiimo/coding-design/blob/master/prologue.md#paradigm-shift
 
 [Storytelling in Web Design]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#storytelling-in-web-design
