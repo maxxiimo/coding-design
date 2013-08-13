@@ -80,11 +80,11 @@ In this storyline example – with my Information Architect (IA) hat on – I immedi
 
 ...and as the front end developer I'm already beginning to imagine how these blocks of information will be organized and coded into our application and used by our backend development team.
 
-TIP: Although I have a good idea of how this particular website might be laid out, following the processes laid out in this book the end result might be completely different from what I first envisioned. The bottom line is being flexible is a good idea. Don't invest too much ego into your work.
-
 This is exactly what you will need to do: think of an overriding storyline, organize it into blocks of information, then begin to imagine how it will be conveyed and coded. Just remember to keep the following tenant of [The Front End Manifesto][Manifesto] in mind:
 
 > Architect and design for the end user, not developers.
+
+TIP: Although I enter projects with a good idea of how the website might be laid out, following the processes laid out in this book the end result might be completely different from what I first envisioned. The bottom line is being flexible is a good idea. Don't invest too much ego into your work.
 
 Gathering and Organizing Information
 ------------------------------------
