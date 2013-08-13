@@ -89,12 +89,12 @@ TIP: Although I enter projects with a good idea of how the website might be laid
 Gathering and Organizing Information
 ------------------------------------
 
-Before you begin coding though, it's important to take a few preliminary steps. What follows are two techniques for gathering all the blocks of information that will ultimately make up the sites story, help define the user experience, and establish a layout:
+Before you begin coding it's important to take a few preliminary steps. What follows are two techniques for gathering all the blocks of information that will ultimately make up the sites story, help define the user experience, and establish a layout:
 
 1. Index Card Exercise
 2. Prototyping on Paper
 
-NOTE: I'm going to make the assumption that you have conducted basic client discovery and subject research for your project. Also, throughout this process I highly recommend keeping the book "[Don't Make Me Think][]" by Steve Krug nearby as a reference. It’s a good read and everything he says is so darn obvious, and all there in one place.
+NOTE: I'm going to make the assumption that you have conducted basic client discovery and subject research for your project. Also, throughout this process I highly recommend keeping the book "[Don't Make Me Think][]" by Steve Krug nearby as a reference. It’s a good read and everything he says is so darn obvious you just might miss it, but thankfully Steve Krug puts it all there in one place for you.
 
 ### Index Card Exercise
 
@@ -114,7 +114,9 @@ NOTE: Color coding is helpful.
 
 \- [Manifesto][]
 
-Here's a practical example and a proof of concept. I need a new website for my practice "View Thought". My storyline goes something like this:
+#### Introducing the ViewThought Case Study
+
+Here's a practical example and a proof of concept. I need a new website for my practice "View Thought" I would like to launch at the end of writing this book. My storyline goes something like this:
 
 > We are a great website design, development and user experience shop. We have tons of experience, have worked with a bunch of different clients who are all happy with our work, and we really care about what we do. We specialize in Ruby on Rails, and we pay special attention to what your users will see. You should hire us! ...or give us a call and learn more.
 
@@ -134,33 +136,33 @@ After evaluating and reorganizing here is what I'm left with:
 
 ![][Index After]
 
-Quite a bit less, and through the process I really have a great grasp on what my site will look like and how I'm going to start coding, but I need to whittle it down even further since we're going to use the mobile first approach.
+Quite a bit less and through the process I really have a great grasp on what my site will look like and how I'm going to start coding, but I need to whittle it down even further since we're going to use the mobile first approach.
 
 > Provide for the mobile experience as a forethought.
 
-\- [Manifesto][]
+\- [The Front End Manifesto][Manifesto]
 
-We need to shed even more. Here's what I'm left with after further elimination:
+We need to shed even more, and here's what I'm left with after further elimination:
 
 ![][Index Mobile]
 
 And there you have it, the application in its absolute simplest form doing only the things that are most important. From here we can build up to the desktop.
 
-NOTE: You can also use a digital equivalent to index cards like PowerPoint, or even a single sheet of paper (as a list of items), but index cards are best. You can buy a pack of 200 index cards for under a dollar so don't be afraid to get nitty-gritty with what you define as an information component.
+Before we move on there is one thing I noticed myself doing in the exercise that I'm not too crazy about: assuming that there would be a traditional header, body, and footer. Chances are there will be, but I don't like the idea of boxing myself in so early on in the project. My thoughts on this are, "you have to start somewhere," and when I do start coding I can always break free–if it makes better sense.
 
-I find that the process I just described works best for me, but there are other ways to go about this. Check out how this design group uses index cards:
+NOTE: You can use a digital equivalent to index cards like PowerPoint, or even a single sheet of paper (as a list of items), but index cards are best. A pack of 200 index cards sell for under a dollar so don't be afraid to get nitty-gritty with what you define as an information component.
+
+#### Alternative Approaches
+
+I find that the process I just described works best for me, but there are other ways to go about the index card exercise. Check out how this design group uses index cards:
 
 - [Responsive Design Case Study][Case Study]
 
-On a final note on index carding, as a front end developer with years of practice, a huge part of me just wants to bypass this exercise and start coding (and change things on the fly as I move along). So why don't I? Experience has shown me that the manual process of labeling index cards and laying them out forces me to reflect and think outside of my coding box. It helps me discover new ideas, visualize and refine the information architecture, and not work in isolation (i.e. include others in the process). I find that by doing the exercise there's just enough chance of a better outcome that it's worth trying.
+#### The Importance of This Exercise
 
-> Test across major browsers, devices, and in front of "real-life" users.
+On a final note on index carding, as a front end developer with years of practice, a huge part of me just wants to bypass this exercise aaltogether and start coding (and change things on the fly as I move along). So why don't I?
 
-> Think in terms of all use cases including and especially accessibility.
-
-> Architect and design for the end user, not developers.
-
-\- [Manifesto][]
+Experience has shown me that the manual process of labeling index cards and laying them out forces me to reflect and think outside of my coding box. It helps me discover new ideas, visualize and refine the information architecture, and not work in isolation (i.e. include others in the process). I find that by doing the exercise there's just enough chance of a better outcome that it's worth trying.
 
 ### Prototyping on Paper
 
