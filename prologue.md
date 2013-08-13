@@ -3,7 +3,13 @@ Prologue
 
 ### Paradigm Shift
 
-Over the last several years I've noticed a paradigm shift in the role that front end engineers play in the design process. Back in the day for really great design you absolutely needed a Graphic Designer. Unless you could work Adobe Photoshop or Adobe Illustrator like there was no tomorrow, Graphic Designers were the ones who produced rounded corners, cool fonts, gradients, translucent images, buttons, icons, icon sprites, etc.. In addition to required design elements, Graphic Designers created visual mockups of a website that non-coding stakeholders could "touch and feel", i.e. actually see and understand.
+Over the last several years I've noticed a paradigm shift in the role that front end engineers play in the design process. Back in the day for really great design you absolutely needed a Graphic Designer. Today,  this is not an absolute must like it once used to be.
+
+Before, unless you could work Adobe Photoshop or Adobe Illustrator like there was no tomorrow, Graphic Designers were the ones who produced:
+
+- rounded corners, cool fonts, gradients, translucent images, buttons, icons, icon sprites, etc..
+
+In addition to design elements, Graphic Designers created visual mockups of a website that non-coding stakeholders could "touch and feel", i.e. actually see and understand.
 
 Discussion and changes could then be made around these mockups before any engineering costs were incurred; it was more efficient and cost-effective to do it this way. As a result decision-makers would gravitate towards brainstorming on usability, architecting, and the design aspects of a project at the graphic design phase in the development process: that began and oftentimes ended before front end engineers were really involved.
 
