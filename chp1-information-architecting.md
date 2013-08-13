@@ -308,13 +308,13 @@ Just remember, less is more and KISS (Keep It Simple Stupid).
 
 [Susy]:                 https://github.com/maxxiimo/coding-design/blob/master/chp3-mobile-on-rails.md#susy-breakpoints
 
-[Mosaic]:               http://chrismaxwell.com/manifesto/chp-9/mosaic-800px.gif
-[Index Card Reference]: http://chrismaxwell.com/manifesto/chp-9/index-cards/index-card-reference.gif
-[Index Before]:         http://chrismaxwell.com/manifesto/chp-9/index-cards/index-cards-before.jpg
-[Index After]:          http://chrismaxwell.com/manifesto/chp-9/index-cards/index-cards-after.jpg
-[Index Mobile]:         http://chrismaxwell.com/manifesto/chp-9/index-cards/index-cards-mobile.jpg
-[Prototype]:            http://chrismaxwell.com/manifesto/chp-9/prototype.jpg
-[Wireframe]:            http://chrismaxwell.com/manifesto/chp-9/wireframe/ipad-wireframe.gif
-[Laptop]:               http://chrismaxwell.com/manifesto/chp-9/wireframe/laptop-home.gif
-[Laptop Grid]:          http://chrismaxwell.com/manifesto/chp-9/wireframe/laptop-home-grid.gif
-[Multidevice]:          http://chrismaxwell.com/manifesto/chp-9/wireframe/multidevice.gif
+[Mosaic]:               http://chrismaxwell.com/coding-design/chp-1/mosaic-800px.gif
+[Index Card Reference]: http://chrismaxwell.com/coding-design/chp-1/index-cards/index-card-reference.gif
+[Index Before]:         http://chrismaxwell.com/coding-design/chp-1/index-cards/index-cards-before.jpg
+[Index After]:          http://chrismaxwell.com/coding-design/chp-1/index-cards/index-cards-after.jpg
+[Index Mobile]:         http://chrismaxwell.com/coding-design/chp-1/index-cards/index-cards-mobile.jpg
+[Prototype]:            http://chrismaxwell.com/coding-design/chp-1/prototype.jpg
+[Wireframe]:            http://chrismaxwell.com/coding-design/chp-1/wireframe/ipad-wireframe.gif
+[Laptop]:               http://chrismaxwell.com/coding-design/chp-1/wireframe/laptop-home.gif
+[Laptop Grid]:          http://chrismaxwell.com/coding-design/chp-1/wireframe/laptop-home-grid.gif
+[Multidevice]:          http://chrismaxwell.com/coding-design/chp-1/wireframe/multidevice.gif

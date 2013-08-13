@@ -471,15 +471,15 @@ I'm going to have a contact us form on the site and thought this would be  a gre
 [Jazzy Parallax]:       http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/jazz-up-a-static-webpage-with-subtle-parallax/
 [Web 2.0]:              http://www.smashingmagazine.com/2007/03/10/web-20-tutorials-round-up/
 
-[Fresh]:                http://www.chrismaxwell.com/manifesto/chp-10/fresh-tilled-soil.gif
-[Logo]:                 http://www.chrismaxwell.com/manifesto/chp-10/viewthought-logo.gif
-[Icon Fonts 1]:         http://www.chrismaxwell.com/manifesto/chp-10/icon-font-nav.gif
-[Icon Fonts 2]:         http://www.chrismaxwell.com/manifesto/chp-10/icon-font-social.gif
-[Symbols]:              http://www.chrismaxwell.com/manifesto/chp-10/symbols.gif
-[Collection]:           http://www.chrismaxwell.com/manifesto/chp-10/collection.gif
-[Icon Sample]:          http://www.chrismaxwell.com/manifesto/chp-10/30-toolbar-icons.jpg
-[Icon Slider]:          http://www.chrismaxwell.com/manifesto/chp-10/icon-slider.png
-[Icon Grid]:            http://www.chrismaxwell.com/manifesto/chp-10/icon-grid.gif
-[Silhouette]:           http://www.chrismaxwell.com/manifesto/chp-10/silhouette-files-icons.gif
-[Button 1]:             http://www.chrismaxwell.com/manifesto/chp-10/button-3.gif
-[Button 2]:             http://www.chrismaxwell.com/manifesto/chp-10/button-4.gif
+[Fresh]:                http://www.chrismaxwell.com/coding-design/chp-2/fresh-tilled-soil.gif
+[Logo]:                 http://www.chrismaxwell.com/coding-design/chp-2/viewthought-logo.gif
+[Icon Fonts 1]:         http://www.chrismaxwell.com/coding-design/chp-2/icon-font-nav.gif
+[Icon Fonts 2]:         http://www.chrismaxwell.com/coding-design/chp-2/icon-font-social.gif
+[Symbols]:              http://www.chrismaxwell.com/coding-design/chp-2/symbols.gif
+[Collection]:           http://www.chrismaxwell.com/coding-design/chp-2/collection.gif
+[Icon Sample]:          http://www.chrismaxwell.com/coding-design/chp-2/30-toolbar-icons.jpg
+[Icon Slider]:          http://www.chrismaxwell.com/coding-design/chp-2/icon-slider.png
+[Icon Grid]:            http://www.chrismaxwell.com/coding-design/chp-2/icon-grid.gif
+[Silhouette]:           http://www.chrismaxwell.com/coding-design/chp-2/silhouette-files-icons.gif
+[Button 1]:             http://www.chrismaxwell.com/coding-design/chp-2/button-3.gif
+[Button 2]:             http://www.chrismaxwell.com/coding-design/chp-2/button-4.gif

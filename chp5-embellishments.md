@@ -474,30 +474,30 @@ NOTE: The `+shadow-3` mixin is included in the [starter styles][].
 [Numbering In Style]:   http://css-tricks.com/numbering-in-style/
 [CSS3 OL]:              http://www.red-team-design.com/css3-ordered-list-styles
 
-[Gradient 1]:           http://www.chrismaxwell.com/manifesto/chp-13/gradient-line-1.gif
-[Gradient 2]:           http://www.chrismaxwell.com/manifesto/chp-13/gradient-line-2.gif
-[Panel Gradient]:       http://www.chrismaxwell.com/manifesto/chp-13/panel-gradient.gif
-[Photo Gradient]:       http://www.chrismaxwell.com/manifesto/chp-13/photo-gradient.gif
-[Box Shadows]:          http://www.chrismaxwell.com/manifesto/chp-13/shadows-w-numbers.gif
-[Arrow Outline]:        http://www.chrismaxwell.com/manifesto/chp-13/arrow-outline.gif
-[Arrow Down]:           http://www.chrismaxwell.com/manifesto/chp-13/arrow-down.gif
-[Scroll Up]:            http://www.chrismaxwell.com/manifesto/chp-13/scroll-up.gif
-[Scroll Down]:          http://www.chrismaxwell.com/manifesto/chp-13/scroll-down.gif
-[Icon Arrow]:           http://www.chrismaxwell.com/manifesto/chp-13/arrow-icon.gif
-[Navigation 1]:         http://www.chrismaxwell.com/manifesto/chp-13/navigation-1.gif
-[Navigation 2]:         http://www.chrismaxwell.com/manifesto/chp-13/navigation-2.gif
-[Navigation 3]:         http://www.chrismaxwell.com/manifesto/chp-13/shadow-header.gif
-[Quote Examples]:       http://www.chrismaxwell.com/manifesto/chp-13/quote-examples.gif
-[Quotes]:               http://www.chrismaxwell.com/manifesto/chp-13/quotes.jpg
-[Design 1]:             http://www.chrismaxwell.com/manifesto/chp-13/design-1.png
-[Design 2]:             http://www.chrismaxwell.com/manifesto/chp-13/design-2.png
-[Design 3]:             http://www.chrismaxwell.com/manifesto/chp-13/design-3.png
-[Design 4]:             http://www.chrismaxwell.com/manifesto/chp-13/design-4.png
-[Design 6]:             http://www.chrismaxwell.com/manifesto/chp-13/design-6.png
-[Design 7]:             http://www.chrismaxwell.com/manifesto/chp-13/design-7.png
-[Lists]:                http://www.chrismaxwell.com/manifesto/chp-13/bookmarks.gif
-[Values 1]:             http://www.chrismaxwell.com/manifesto/chp-13/core-values-1a.gif
-[Values 2]:             http://www.chrismaxwell.com/manifesto/chp-13/core-values-mac-1.png
-[Values 3]:             http://www.chrismaxwell.com/manifesto/chp-13/core-values-3.gif
-[Values 4]:             http://www.chrismaxwell.com/manifesto/chp-13/core-values-4.gif
-[Values 5]:             http://www.chrismaxwell.com/manifesto/chp-13/core-values-mac-2.png
+[Gradient 1]:           http://www.chrismaxwell.com/coding-design/chp-5/gradient-line-1.gif
+[Gradient 2]:           http://www.chrismaxwell.com/coding-design/chp-5/gradient-line-2.gif
+[Panel Gradient]:       http://www.chrismaxwell.com/coding-design/chp-5/panel-gradient.gif
+[Photo Gradient]:       http://www.chrismaxwell.com/coding-design/chp-5/photo-gradient.gif
+[Box Shadows]:          http://www.chrismaxwell.com/coding-design/chp-5/shadows-w-numbers.gif
+[Arrow Outline]:        http://www.chrismaxwell.com/coding-design/chp-5/arrow-outline.gif
+[Arrow Down]:           http://www.chrismaxwell.com/coding-design/chp-5/arrow-down.gif
+[Scroll Up]:            http://www.chrismaxwell.com/coding-design/chp-5/scroll-up.gif
+[Scroll Down]:          http://www.chrismaxwell.com/coding-design/chp-5/scroll-down.gif
+[Icon Arrow]:           http://www.chrismaxwell.com/coding-design/chp-5/arrow-icon.gif
+[Navigation 1]:         http://www.chrismaxwell.com/coding-design/chp-5/navigation-1.gif
+[Navigation 2]:         http://www.chrismaxwell.com/coding-design/chp-5/navigation-2.gif
+[Navigation 3]:         http://www.chrismaxwell.com/coding-design/chp-5/shadow-header.gif
+[Quote Examples]:       http://www.chrismaxwell.com/coding-design/chp-5/quote-examples.gif
+[Quotes]:               http://www.chrismaxwell.com/coding-design/chp-5/quotes.jpg
+[Design 1]:             http://www.chrismaxwell.com/coding-design/chp-5/design-1.png
+[Design 2]:             http://www.chrismaxwell.com/coding-design/chp-5/design-2.png
+[Design 3]:             http://www.chrismaxwell.com/coding-design/chp-5/design-3.png
+[Design 4]:             http://www.chrismaxwell.com/coding-design/chp-5/design-4.png
+[Design 6]:             http://www.chrismaxwell.com/coding-design/chp-5/design-6.png
+[Design 7]:             http://www.chrismaxwell.com/coding-design/chp-5/design-7.png
+[Lists]:                http://www.chrismaxwell.com/coding-design/chp-5/bookmarks.gif
+[Values 1]:             http://www.chrismaxwell.com/coding-design/chp-5/core-values-1a.gif
+[Values 2]:             http://www.chrismaxwell.com/coding-design/chp-5/core-values-mac-1.png
+[Values 3]:             http://www.chrismaxwell.com/coding-design/chp-5/core-values-3.gif
+[Values 4]:             http://www.chrismaxwell.com/coding-design/chp-5/core-values-4.gif
+[Values 5]:             http://www.chrismaxwell.com/coding-design/chp-5/core-values-mac-2.png
