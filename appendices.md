@@ -755,7 +755,12 @@ These services offer screenshots of your website on different browsers.
 
 *Free*
 
-1.  [Browser Shots][]
+1.  [modern.IE][]
+
+    > Introducing modern.IE
+    > A new set of tools to help you support modern and older versions of Internet Explorer
+
+2.  [Browser Shots][]
 
     > Check Browser Compatibility, Cross Platform Browser Test
 
@@ -793,17 +798,21 @@ See what your customers see.
 
 1.  [iPad Peek][]
 
-2.  [Opera Mini Simulator][]
+2.  [iPhoney][]
+
+    > A free iPhone web simulator for designers.
+
+3.  [Opera Mini Simulator][]
 
     > Below is a live demo of Opera Mini 7.1 that functions as it would when installed on a handset.
 
-3.  [Mobile Phone Emulator][]
+4.  [Mobile Phone Emulator][]
 
-4.  [Test Your Site][]
+5.  [Test Your Site][]
 
     > This tool shows you how your current site looks on a smartphone, and provides a report on what’s working and what you can do better. To get started, click below.
 
-5.  [The Responsinator][]
+6.  [The Responsinator][]
 
 #### Online Responsive Views
 
@@ -843,17 +852,13 @@ See what your customers see.
 
 1.  [Adobe Edge Inspect][]
 
-    > Preview & inspect web designs on devices.
+    > Edge Inspect allows you to easily pair multiple smartphones and tablets with your computer and enables you to work more efficiently by providing synchronous browsing, remote inspection and the ability to take screenshots of your mobile web content from connected devices.
 
 2.  [BlackBerry Simulators][]
 
-    >
+    > Use the BlackBerry 10 simulator to view, test and debug your application.
 
-3.  [iPhoney][]
-
-    > A free iPhone web simulator for designers.
-
-4.  [Opera Mobile Emulator][]
+3.  [Opera Mobile Emulator][]
 
     > Do your mobile development straight from your desktop, and pair it with Opera Dragonfly for advanced debugging.
 
@@ -1078,6 +1083,7 @@ See what your customers see.
 
 
 
+[modern.IE]:            http://www.modern.ie/en-us
 [Browser Shots]:        http://browsershots.org/
 [Browser Stack]:        http://www.browserstack.com/
 [Cross Browser Test]:   http://crossbrowsertesting.com/
@@ -1087,6 +1093,7 @@ See what your customers see.
 [Browshot]:             http://www.browshot.com/
 
 [iPad Peek]:            http://ipadpeek.com/
+[iPhoney]:              http://www.marketcircle.com/iphoney/
 [Opera Mini Simulator]: http://www.opera.com/developer/opera-mini-simulator
 [Mobile Phone Emulator]: http://www.mobilephoneemulator.com/
 [Test Your Site]:       http://www.howtogomo.com/en-gb/d/test-your-site/
@@ -1104,5 +1111,4 @@ See what your customers see.
 
 [Adobe Edge Inspect]:   http://html.adobe.com/edge/inspect/
 [BlackBerry Simulators]: http://us.blackberry.com/sites/developers/resources/simulators.html
-[iPhoney]:              http://www.marketcircle.com/iphoney/
 [Opera Mobile Emulator]: http://www.opera.com/developer/mobile-emulator
