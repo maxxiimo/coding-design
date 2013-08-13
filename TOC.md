@@ -16,8 +16,11 @@ Table of Contents
   - [A Mosaic of Information][]
   - [The Storyline][]
   - [Gathering and Organizing Information][]
-      - [Index Card Exercise][]
-      - [Prototyping on Paper][]
+  - [Index Card Exercise][]
+      - [Introducing the ViewThought Case Study][ViewThought]
+      - [Alternative Approaches][]
+      - [The Importance of This Exercise][Importance]
+  - [Prototyping on Paper][]
   - [Wireframing][]
       - [Wireframing with Susy][]
       - [Content][]
@@ -123,6 +126,10 @@ Table of Contents
 [The Storyline]:        https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#the-storyline
 [Gathering and Organizing Information]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#gathering-and-organizing-information
 [Index Card Exercise]:  https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#index-card-exercise
+[ViewThought]:          https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#introducing-the-viewthought-case-study
+[Alternative Approaches]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#alternative-approaches
+[Importance]:           https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#the-importance-of-this-exercise
+
 [Prototyping on Paper]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#prototyping-on-paper
 [Wireframing]:          https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#wireframing
 [Wireframing with Susy]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#wireframing-with-susy

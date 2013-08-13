@@ -96,7 +96,8 @@ Before you begin coding it's important to take a few preliminary steps. What fol
 
 NOTE: I'm going to make the assumption that you have conducted basic client discovery and subject research for your project. Also, throughout this process I highly recommend keeping the book "[Don't Make Me Think][]" by Steve Krug nearby as a reference. It’s a good read and everything he says is so darn obvious you just might miss it, but thankfully Steve Krug puts it all there in one place for you.
 
-### Index Card Exercise
+Index Card Exercise
+-------------------
 
 The first technique involves the use of index cards to create a physical inventory of possible information components. It's best to do this exercise with others, especially stakeholders in the project. Here are the steps I follow:
 
@@ -114,7 +115,7 @@ NOTE: Color coding is helpful.
 
 \- [Manifesto][]
 
-#### Introducing the ViewThought Case Study
+### Introducing the ViewThought Case Study
 
 Here's a practical example and a proof of concept. I need a new website for my practice "View Thought" I would like to launch at the end of writing this book. My storyline goes something like this:
 
@@ -152,19 +153,20 @@ Before we move on there is one thing I noticed myself doing in the exercise that
 
 NOTE: You can use a digital equivalent to index cards like PowerPoint, or even a single sheet of paper (as a list of items), but index cards are best. A pack of 200 index cards sell for under a dollar so don't be afraid to get nitty-gritty with what you define as an information component.
 
-#### Alternative Approaches
+### Alternative Approaches
 
 I find that the process I just described works best for me, but there are other ways to go about the index card exercise. Check out how this design group uses index cards:
 
 - [Responsive Design Case Study][Case Study]
 
-#### The Importance of This Exercise
+### The Importance of This Exercise
 
 On a final note on index carding, as a front end developer with years of practice, a huge part of me just wants to bypass this exercise aaltogether and start coding (and change things on the fly as I move along). So why don't I?
 
 Experience has shown me that the manual process of labeling index cards and laying them out forces me to reflect and think outside of my coding box. It helps me discover new ideas, visualize and refine the information architecture, and not work in isolation (i.e. include others in the process). I find that by doing the exercise there's just enough chance of a better outcome that it's worth trying.
 
-### Prototyping on Paper
+Prototyping on Paper
+--------------------
 
 So with the index card exercise done, the next step in my process is to take the resulting information architecture and create a paper prototype ([sketching][]). Doing so will help you better define the layout, visualize what the site will look like on a screen, visualize how pages interconnect, and give you plenty of room for trial and error. It also provides you with some additional and inexpensive opportunities for stakeholder input, and further reflection and brainstorming before you begin coding.
 
