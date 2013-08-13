@@ -73,12 +73,16 @@ In this storyline example – with my Information Architect (IA) hat on – I immedi
 1.  What is the site in 10 words or less – possibly a summary box.
 2.  How do I join – a sign-up section.
 3.  An area that describes the benefits of the site – maybe user testimonials.
-4.  The obvious table stakes to this story, the side story:
+4.  The obvious table stakes to this story:
     - A logo
     - Legalese (Copyright, ToS, Privacy)
     - Non-legal footer type info (Feedback, About, Contact, Site Map)
 
-...and as the front end developer I'm already beginning to imagine how these blocks of information will be organized and coded into our application and used by our backend development team. This is exactly what you will need to do: think of an overriding storyline, organize it into blocks of information, then begin to imagine how it will be conveyed and coded. Just remember to keep the following tenant of our [Manifesto][] in mind:
+...and as the front end developer I'm already beginning to imagine how these blocks of information will be organized and coded into our application and used by our backend development team.
+
+TIP: Although I have a good idea of how this particular website might be laid out, following the processes laid out in this book the end result might be completely different from what I first envisioned. The bottom line is being flexible is a good idea. Don't invest too much ego into your work.
+
+This is exactly what you will need to do: think of an overriding storyline, organize it into blocks of information, then begin to imagine how it will be conveyed and coded. Just remember to keep the following tenant of [The Front End Manifesto][Manifesto] in mind:
 
 > Architect and design for the end user, not developers.
 
@@ -275,7 +279,7 @@ The end result of this chapter's work is a complete wireframe, ready for the nex
 Just remember, less is more and KISS (Keep It Simple Stupid).
 
 [Front End Manifesto]:  https://github.com/maxxiimo/the-front-end-manifesto/blob/master/TOC.md
-[Manifesto]:            https://github.com/maxxiimo/coding-design/blob/master/MANIFESTO.md
+[Manifesto]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/MANIFESTO.md#the-manifesto
 [Chapter 1]:            https://github.com/maxxiimo/coding-design/blob/master/chp1-foundation-markup.md#foundation-markup
 [Chapter 3]:            https://github.com/maxxiimo/coding-design/blob/master/chp3-foundation-styles.md#foundation-styles
 [Chapter 5]:            https://github.com/maxxiimo/coding-design/blob/master/chp5-mobile-foundation.md#mobile-foundation
