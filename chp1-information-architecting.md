@@ -55,11 +55,11 @@ Individually, the components of a mosaic are meaningless, but together they form
 
 ![][Mosaic]
 
-Is it a meaningless conglomeration of colored tiles or does it tell a story?
+Is it a meaningless conglomeration of colored tiles, or does it tell a story?
 
-A website layout is similar in that it is composed of different blocks of information that together convey a larger whole, a story: composed of text, images, color, function, and more.
+A website layout is similar in that it is composed of different blocks of information that together convey a larger whole, a story composed of text, images, color, function, and more.
 
-As front end developers we choose and arrange what blocks belong together, and through our code create a digital mosaic, a website, that ultimately is viewed and interpreted by our audience. As such we should think of what we create, it's meaning and purpose, as storytelling and ourselves as narrators. It's not as far-fetched as it might sound at first when you consider that most websites are probably designed to invite/entice/cause the user to take a next step or action, i.e. turn the page in the story.
+As front end developers we choose and arrange what blocks belong together, and through our code create a digital mosaic, a website, that ultimately is viewed and interpreted by our audience. As such we should think of what we create, it's meaning and purpose, as storytelling and ourselves as narrators. It's not as far-fetched as it might sound when you consider that most websites are probably designed to invite/entice/cause the user to take a next step or action, i.e. turn the page in the story.
 
 The Storyline
 -------------
