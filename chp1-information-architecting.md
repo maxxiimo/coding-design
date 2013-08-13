@@ -186,15 +186,13 @@ Here's what my paper prototype process looks like starting with a blank sheet of
 
 ![][Prototype]
 
-**The end result**: a well-defined user interface layout for my entire application.
+...a well-defined user interface layout for my entire application.
 
 TIP: As you prototype always have an eye on your bookmarked reference websites, and/or some of the [inspirational sites][Appendix 1] listed in the Appendices.
 
-**How are other people doing this?**
+NOTE: For more examples of prototyping on paper check out:
 
-Here are some examples of prototyping on paper that will answer this question and hopefully inspire you:
-
-- [UI & Wireframe Sketches for your Inspiration][Inspirational]
+- [UI & Wireframe Sketches for your Inspiration][Prototyping Examples]
 
 Wireframing
 -----------
@@ -312,7 +310,7 @@ Just remember, less is more and KISS (Keep It Simple Stupid).
 [Generated Paper]:      http://generatedpaper.com/en/wireframing
 [Interface Sketch]:     http://interfacesketch.tumblr.com/
 [Mobile Sketching]:     http://uxdesign.smashingmagazine.com/2012/09/18/free-download-ux-sketching-wireframing-templates-mobile/
-[Inspirational]:        http://webdesignledger.com/inspiration/ui-wireframe-sketches-for-your-inspiration
+[Prototyping Examples]: http://webdesignledger.com/inspiration/ui-wireframe-sketches-for-your-inspiration
 
 [Chapter 5 - Susy]:     https://github.com/maxxiimo/coding-design/blob/master/chp5-mobile-foundation.md#mobile-foundation#using-susy
 [Compass offers]:       http://compass-style.org/reference/compass/layout/grid_background/
