@@ -1,10 +1,12 @@
 Information Architecting
 ========================
 
-In the first section of this book we laid down the foundation of our application by:
+In [The Front End Manifesto][Front End Manifesto] we laid down the foundation of our application by:
 
 1. Defining our base [markup][Chapter 1] and [styles][Chapter 3].
 2. Choosing a [mobile][Chapter 5] content delivery strategy.
+
+NOTE: You do not need to read The Front End Manifesto to follow along in this book, although if you are setting up a Ruby on Rails application it wouldn't be a bad idea to do so.
 
 Now it's time to build a user experience on this foundation: how your users will understand your [whatever your building] and how they will [whatever they will do]. The key to being successful in building your applications user experience can be summed up in one word: **Storytelling**.
 
@@ -268,6 +270,7 @@ The end result of this chapter's work is a complete wireframe, ready for the nex
 
 Just remember, less is more and KISS (Keep It Simple Stupid).
 
+[Front End Manifesto]:  https://github.com/maxxiimo/the-front-end-manifesto/blob/master/TOC.md
 [Manifesto]:            https://github.com/maxxiimo/coding-design/blob/master/MANIFESTO.md
 [Chapter 1]:            https://github.com/maxxiimo/coding-design/blob/master/chp1-foundation-markup.md#foundation-markup
 [Chapter 3]:            https://github.com/maxxiimo/coding-design/blob/master/chp3-foundation-styles.md#foundation-styles
