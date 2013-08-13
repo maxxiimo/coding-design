@@ -14,7 +14,6 @@ Now it's time to build a user experience on this foundation: how your users will
 ![][Storytelling]
 <br>
 <br>
-<br>
 > The other way to persuade people—and ultimately a much more powerful way—is by uniting an idea with an emotion. The best way to do that is by telling a compelling story. In a story, you not only weave a lot of information into the telling but you also arouse your listener's emotions and energy.
 
 \- [Storytelling That Moves People][Move People] by Robert McKee and Bronwyn Fryer
@@ -40,11 +39,11 @@ Jason Santa Maria pointed out this site in in his 2008 presentation I mentioned.
 A Mosaic of Information
 -----------------------
 
-To build our story we should first explore what it means to organize an applications information and function.
+To build our story we should first explore what it means to organize a websites information and function.
 
 > As a front end person, oftentimes taking the role of Information Architect, when I think about layout I literally think about how a site is laid out on a screen. I don't think in terms of code, but more so in terms of organization of information and function for an end-user's consumption.
 
-\- [Chapter 1 Quote][]
+\- [Chapter 1 - The Front End Manifesto][Chapter 1 Quote]
 
 How does "organizing information and function" relate to storytelling? I like to think about it in terms of traditional mosaics. What is a mosaic if not a bunch of smaller things coming together to form a meaningful whole:
 
@@ -289,7 +288,7 @@ Just remember, less is more and KISS (Keep It Simple Stupid).
 [Move People]:          http://hbr.org/web/special-collections/insight/communication/storytelling-that-moves-people
 [Jason Santa Maria]:    http://jasonsantamaria.com/
 
-[Chapter 1 Quote]:      https://github.com/maxxiimo/coding-design/blob/master/chp1-foundation-markup.md#foundation-markup#the-application-layout
+[Chapter 1 Quote]:      https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp1-foundation-markup.md#foundation-markup
 [Wikipedia]:            https://en.wikipedia.org/wiki/Mosaic
 
 [Don't Make Me Think]:  http://www.sensible.com/index.html
