@@ -9,7 +9,12 @@ In [The Front End Manifesto][Front End Manifesto] we laid down the foundation of
 NOTE: You do not need to read *The Front End Manifesto* to follow along with this book, although if you are setting up a Ruby on Rails application it wouldn't be a bad idea to do so.
 
 Now it's time to build a user experience on this foundation: how your users will understand your [whatever you're building] and how they will [whatever they will do]. The key to being successful in building your applications user experience can be summed up in one word: **Storytelling**.
-
+<br>
+<br>
+![][Storytelling]
+<br>
+<br>
+<br>
 > The other way to persuade people—and ultimately a much more powerful way—is by uniting an idea with an emotion. The best way to do that is by telling a compelling story. In a story, you not only weave a lot of information into the telling but you also arouse your listener's emotions and energy.
 
 \- [Storytelling That Moves People][Move People] by Robert McKee and Bronwyn Fryer
@@ -308,6 +313,7 @@ Just remember, less is more and KISS (Keep It Simple Stupid).
 
 [Susy]:                 https://github.com/maxxiimo/coding-design/blob/master/chp3-mobile-on-rails.md#susy-breakpoints
 
+[Storytelling]:         http://chrismaxwell.com/coding-design/chp-1/storytelling.jpg
 [Mosaic]:               http://chrismaxwell.com/coding-design/chp-1/mosaic-800px.gif
 [Index Card Reference]: http://chrismaxwell.com/coding-design/chp-1/index-cards/index-card-reference.gif
 [Index Before]:         http://chrismaxwell.com/coding-design/chp-1/index-cards/index-cards-before.jpg
