@@ -186,13 +186,13 @@ Here's what my paper prototype process looks like starting with a blank sheet of
 
 ![][Prototype]
 
-The end result: a well-defined user interface layout for my entire application.
+**The end result**: a well-defined user interface layout for my entire application.
 
 TIP: As you prototype always have an eye on your bookmarked reference websites, and/or some of the [inspirational sites][Appendix 1] listed in the Appendices.
 
-How are other people doing this?
+**How are other people doing this?**
 
-Here are some examples of prototyping on paper that will give you a great idea on how others are prototyping:
+Here are some examples of prototyping on paper that will answer this question and hopefully inspire you:
 
 - [UI & Wireframe Sketches for your Inspiration][Inspirational]
 
