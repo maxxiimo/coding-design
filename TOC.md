@@ -4,6 +4,8 @@ Table of Contents
 - [Cover][]
 
 ### [Introduction][]
+
+### Prologue
   - [Paradigm Shift][]
 
 &sect;1 [Look and Feel][Section I]
@@ -109,7 +111,7 @@ Table of Contents
 
 [Appendices]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendices
 
-[Paradigm Shift]:       https://github.com/maxxiimo/coding-design/blob/master/introduction.md#paradigm-shift
+[Paradigm Shift]:       https://github.com/maxxiimo/coding-design/blob/master/prologue.md#paradigm-shift
 
 [Storytelling in Web Design]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#storytelling-in-web-design
 [A Mosaic of Information]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#a-mosaic-of-information
