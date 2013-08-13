@@ -113,7 +113,7 @@ NOTE: Color coding is helpful.
 
 > KISS (keep it simple stupid)
 
-\- [Manifesto][]
+\- [The Front End Manifesto][Manifesto]
 
 ### Introducing the ViewThought Case Study
 
@@ -168,7 +168,9 @@ Experience has shown me that the manual process of labeling index cards and layi
 Prototyping on Paper
 --------------------
 
-So with the index card exercise done, the next step in my process is to take the resulting information architecture and create a paper prototype ([sketching][]). Doing so will help you better define the layout, visualize what the site will look like on a screen, visualize how pages interconnect, and give you plenty of room for trial and error. It also provides you with some additional and inexpensive opportunities for stakeholder input, and further reflection and brainstorming before you begin coding.
+So with the index card exercise done, the next step in the process is to take the resulting information architecture and create a paper prototype ([sketching][]).
+
+Doing so will help you better define the layout, visualize what the site will look like on a screen, visualize how pages interconnect, and give you plenty of room for trial and error. It also provides you with some additional and inexpensive opportunities for stakeholder input, and further reflection and brainstorming before you begin coding.
 
 There are a number of applications out there that can help you prototype, but I prefer to go old-school with pencil and paper. For presentational purposes you can transfer this exercise to PowerPoint or some other application for prototyping, but don't get bogged down and waste time doing so. Paper is highly portable, can be digitized (scan), requires no electricity or Internet connectivity, can easily be shared with others, and its use is a skill that is common between all stakeholders.
 
@@ -176,10 +178,11 @@ Here are some device mockup resources that will help you sketch:
 
 - [Generated Paper][]
 - [Interface Sketch][]
-- [Responsive Sketchsheets][]
 - [UX Sketching And Wireframing Templates For Mobile Projects][Mobile Sketching]
 
-To begin just simply translate what you indexed in the previous section into what it might look like on a screen. Here's what my paper prototype process looks like starting with a blank sheet of paper next to my index cards and ending with a paper prototype:
+To begin just simply translate what you indexed in the previous section into what it might look like on a screen.
+
+Here's what my paper prototype process looks like starting with a blank sheet of paper next to my index cards and ending with a paper prototype:
 
 ![][Prototype]
 
@@ -187,9 +190,11 @@ The end result: a well-defined user interface layout for my entire application.
 
 TIP: As you prototype always have an eye on your bookmarked reference websites, and/or some of the [inspirational sites][Appendix 1] listed in the Appendices. Revise and release often.
 
-Here are some inspirational examples of prototyping on paper for your review:
+How are other people doing this?
 
-[UI & Wireframe Sketches for your Inspiration][Inspirational]
+Here are some examples of prototyping on paper that will give you a great idea on how others are prototyping:
+
+- [UI & Wireframe Sketches for your Inspiration][Inspirational]
 
 Wireframing
 -----------
@@ -306,7 +311,6 @@ Just remember, less is more and KISS (Keep It Simple Stupid).
 [sketching]:            http://tympanus.net/codrops/2013/01/29/planning-your-web-design-with-sketches/
 [Generated Paper]:      http://generatedpaper.com/en/wireframing
 [Interface Sketch]:     http://interfacesketch.tumblr.com/
-[Responsive Sketchsheets]: http://zurb.com/playground/responsive-sketchsheets
 [Mobile Sketching]:     http://uxdesign.smashingmagazine.com/2012/09/18/free-download-ux-sketching-wireframing-templates-mobile/
 [Inspirational]:        http://webdesignledger.com/inspiration/ui-wireframe-sketches-for-your-inspiration
 
