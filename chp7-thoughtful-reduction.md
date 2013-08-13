@@ -84,6 +84,16 @@ Throughout development I'm always switching between different
 
 ### Different devices
 
+Test your site on different devices! Don't just give this action lipservice, it needs to be done, frequently, and nothing can substitute an actual device.
+
+When testing on different devices you'll find some things that worked on your desktop under different screen sizes actually really don't work on the real device.
+
+I found that I needed to turn off JavaScript for certain devices.
+
+Fortunately for us, mobile runs on a whole separate platform targeting JavaScript specifically for mobile is pretty easy.
+
+Of four tablets it's also pretty easy...
+
 ### Services
 
 ### Emulators
@@ -96,4 +106,22 @@ modernizr.js
 
     <html lang=en
     class="js no-rgba no-borderradius no-boxshadow no-textshadow no-opacity no-cssanimations no-cssgradients no-csstransforms no-csstransforms3d no-csstransitions fontface generatedcontent skrollr skrollr-desktop wf-camingodosweb-n7-inactive wf-camingodoswebn7-n7-inactive wf-quatro-n9-inactive wf-quatron9-n9-inactive wf-rooneyweb-i4-inactive wf-rooneyweb-i7-inactive wf-rooneyweb-n4-inactive wf-rooneyweb-n7-inactive wf-rooneywebi4-i4-inactive wf-rooneywebi7-i7-inactive wf-rooneywebn4-n4-inactive wf-rooneywebn7-n7-inactive wf-inactive">
+
+### YSlow
+
+
+### Images
+
+http://www.smushit.com/ysmush.it/
+
+
+#### Sprites
+
+When you come to the end of your design and development, run YSlow. Checkout how many images are being called separately and combine as many as you can into a sprite.
+
+Here's my sprite:
+
+### Icon Fonts
+
+Remove unnecessary icon fonts.
 

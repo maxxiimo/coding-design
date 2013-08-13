@@ -29,6 +29,7 @@ If ever there were an area in your design that could really use the help of a gr
 A company's logo is more often than not the cornerstone of a company's brand, and as you probably guessed, prominent on a webpage.
 
 - [Beautiful and Simple Logos for your Delight][Inspiring Logos]
+- [24 Elegant and Colorful Logos][Elegant Logos]
 
 9 times out of 10 the companies you work for already have a logo, but in the 10th case, like developing a logo for View Thought, you will need to create something.
 
@@ -427,6 +428,7 @@ I'm going to have a contact us form on the site and thought this would be  a gre
 [Quatro Sans]:          http://cargocollective.com/pstype/Quatro-Sans
 [article]:              http://blog.typekit.com/2011/03/24/type-study-choosing-fallback-fonts/
 [Inspiring Logos]:      http://webdesignledger.com/inspiration/beautiful-and-simple-logos-for-your-delight
+[Elegant Logos]:        http://webdesignledger.com/inspiration/24-elegant-and-colorful-logos
 
 [golden ratio]:         http://en.wikipedia.org/wiki/Golden_ratio
 [scale]:                http://modularscale.com/scale/?px1=16&px2=30&ra1=1.618&ra2=0
