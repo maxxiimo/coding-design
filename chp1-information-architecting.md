@@ -199,7 +199,7 @@ Content
 
 I highly recommend getting real content early on in the development process, preferably before you create wireframes. Nothing can substitute for real content, but unfortunately more times than not you will have to make do without, perhaps a client has not yet delivered it.
 
-### Content Blocks
+#### Content Blocks
 
 If you do not have a website's content while architecting, the following article gives a nice overview of how content blocks can be used in situations where content is not known:
 
