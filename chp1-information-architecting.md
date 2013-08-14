@@ -228,11 +228,11 @@ Don't forget to set the color:
 Wireframing
 -----------
 
-From the exercises above you have absolutely everything you need to start coding with confidence: content, and the site's information architecture and prototype layout are pretty far along at this point.
+From the exercises above you have absolutely everything you need to start coding with confidence: content, the site's information architecture, and a complete paper prototype.
 
-If your paper prototype is the blueprint, what you code moving forward is a living wireframe. A living wireframe in that when clients, teammates, and/or stakeholders need to review beyond the early exercises, you can send them to a live URL where they can click away and resize all they want.
+Your prototype by the way will act as a blueprint, and what you code moving forward will become a living wireframe. A living wireframe in that its live!
 
-The wireframe will simulate the actual application, in fact the wireframe will become the application. For you, everything from this point forward is just an iteration in the development process so **revise and release often!**
+When clients, teammates, and/or stakeholders need to review, send them to a live URL where they can click away and watch the progression. The wireframe will simulate the actual application, in fact the wireframe will become the application. For you, everything from this point forward is just an iteration in the development process so **revise and release often!**
 
 TIP: Since we are using git, it's a good idea to always use topic branches as you move along the development process. For example:
 
@@ -249,7 +249,7 @@ TIP: Since we are using git, it's a good idea to always use topic branches as yo
 
 ### From Paper to Browser
 
-No More Exercises! At this point it's time to start coding, and after coding my prototypes here is what I have:
+No More Exercises! At this point it's time to start coding. I will spare you details of coding basic markup, but after coding my prototype here is what I have:
 <br>
 <br>
 ![][Laptop]
@@ -265,7 +265,7 @@ NOTE: An assumption I will make throughout this book is that you are a proficien
 
 ### Wireframing with Susy
 
-In *The Front End Manifesto* we learned how to [install and implement Susy][Chapter 7 - Manifesto]. It's a powerful tool which I strongly recommend you use. Using it will allow you to quickly lay out the content of your application, set breakpoints, and test across different devices until you zero in on the perfect layout for your project.
+In *The Front End Manifesto* we learned how to [install and implement Susy][Chapter 7 - Manifesto]. It's a powerful tool which I strongly recommend you use. Using it will allow you to quickly lay out the content of your application, [set breakpoints][Susy Breakpoints], and test across different devices until you zero in on the perfect layout for your project.
 
 One feature that will help you wireframe is the grid background tool:
 <br>
@@ -278,20 +278,18 @@ These grid guides are very similar to what [Compass offers][], and can be activa
       +container
       +susy-grid-background
 
-Using Susy to wireframe, at the end of our information architecting cycle, with our basic content and layouts in place, here's what we're left with across several different devices:
+Using Susy to wireframe, with our basic content and layouts in place, here's what we're left with across several different devices:
 <br>
 <br>
 ![][Multidevice]
 
-A complete wireframe, that is also responsive across multiple devices through [Susy breakpoints][]. Test it out here:
+A complete wireframe, that is also responsive across multiple devices. Test it out here:
 
 - http://viewthought-0.herokuapp.com/
 
-Now all that we need to do is make our wireframes look pretty! We will tackle this head beginning with Chapter 2, "[Visual Design for the Nondesigner][Chapter 2]".
+Now all that we need to do is make our wireframe look pretty! We will tackle this head beginning in the next chapter; "[Visual Design for the Nondesigner][Chapter 2]".
 
-NOTE: As front end developers we oftentimes think in terms of boxes. Notice our wireframe is essentially a layout of different content boxes. As we move into design mode [in the next chapter][Chapter 2] we need to completely change how we use our brains.
-
-Just remember, less is more and KISS (Keep It Simple Stupid).
+NOTE: As front end developers we oftentimes think in terms of boxes. Notice our wireframe is essentially a layout of different content boxes. As we move into design mode in the next chapter we need to completely change how we use our brains. Just remember, less is more and KISS (Keep It Simple Stupid).
 
 [Manifesto Book]:      https://github.com/maxxiimo/the-front-end-manifesto/blob/master/TOC.md
 [Manifesto]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/MANIFESTO.md#the-manifesto
@@ -330,7 +328,7 @@ Just remember, less is more and KISS (Keep It Simple Stupid).
 [Dummy Image]:          http://dummyimage.com
 
 [Compass offers]:       http://compass-style.org/reference/compass/layout/grid_background/
-[Susy breakpoints]:    https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp7-susy.md#susy-breakpoints
+[Susy Breakpoints]:     https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp7-susy.md#susy-breakpoints
 
 [Storytelling]:         http://chrismaxwell.com/coding-design/chp-1/storytelling.jpg
 [Mosaic]:               http://chrismaxwell.com/coding-design/chp-1/mosaic-800px.gif
