@@ -278,6 +278,8 @@ These grid guides are very similar to what [Compass offers][], and can be activa
       +container
       +susy-grid-background
 
+#### End Result
+
 Using Susy to wireframe, with our basic content and layouts in place, here's what we're left with across several different devices:
 <br>
 <br>
