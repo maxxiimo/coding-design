@@ -190,20 +190,33 @@ Here's what my paper prototype process looks like starting with a blank sheet of
 
 TIP: As you prototype always have an eye on your bookmarked reference websites, and/or some of the [inspirational sites][Appendix 1] listed in the Appendices.
 
-NOTE: For more examples of prototyping on paper check out:
+NOTE: For some great examples of how others use paper to prototype checkout:
 
 - [UI & Wireframe Sketches for your Inspiration][Prototyping Examples]
 
 Wireframing
 -----------
 
-**No More Exercises!** At this point it's time to start coding. From the exercises above you have absolutely everything you need to start coding with confidence knowing that the site's information architecture and layout are pretty darn close to what you will ultimately develop.
+**No More Exercises!** At this point it's time to start coding. From the exercises above you have absolutely everything you need to start coding with confidence: the site's information architecture and layout are pretty far along at this point.
 
-The prototype is the blueprint, and what you code moving forward will serve as your living wireframe. A living wireframe in that if clients/teammates/stakeholders need to review beyond the early exercises, you can send them to a live URL where they can click through to simulate the actual application (and view it on different devices). Any changes you make will be reflected immediately, which they'll love. For you, everything from this point forward is just an iteration in the development process.
+Your prototype is the blueprint, and what you code moving forward will serve as your living wireframe. A living wireframe in that if clients/teammates/stakeholders need to review beyond the early exercises, you can send them to a live URL where they can click away. The wireframe will simulate the actual application, in fact the wire firm will become the application. Any changes you make will be reflected immediately. For you, everything from this point forward is just an iteration in the development process.
 
-Because you laid out your applications [markup][Chapter 1], [styles][Chapter 3], and [mobile][Chapter 5] groundwork in chapters 1 through 5 – and hopefully have deployed on Heroku or elsewhere – what you wireframe will ultimately be production ready, and in this section we will begin to transform our paper prototype into a working wireframe.
+Having said that:
 
-NOTE: An assumption I will make is that you already are a proficient front end coder, so going into how to go about writing basic markup from the prototypes we just developed is something I won't get into.
+**Revise and Release Often!**
+
+Since we are using git, it's a good idea to always use topic branches as you move along the development process. For example:
+
+    C:\Projects\viewthought>git branch
+      design-header-blue
+      design-header-pic
+    * master
+      mobile-nav-experiment
+      thoughtful-reduction
+      viewthought-1
+      viewthought-2
+      viewthought-3
+      wireframe
 
 After codifying my prototypes here is what I have:
 
@@ -212,6 +225,8 @@ After codifying my prototypes here is what I have:
 ![][Laptop]
 
 Pretty bare-bones, but that will soon change.
+
+NOTE: An assumption I make is that you are a proficient enough front end coder that writing basic markup for your wireframe based on the prototypes we just developed is a no-brainer for you. I hope so!
 
 ### Wireframing with Susy
 
