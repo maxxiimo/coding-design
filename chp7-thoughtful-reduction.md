@@ -125,3 +125,16 @@ Here's my sprite:
 
 Remove unnecessary icon fonts.
 
+
+
+Feedback and Testing
+--------------------
+
+One very important thing to practice when designing interfaces is do nothing in isolation, and consider everything you think as intuitive,, to be wrong! (until proven otherwise) Iterating is key. Get feedback from your end users and refine. If you can't get to them, then ask your neighbor, a friend, or try one of the services listed in the [Feedback Services][Appendix 3] appendix.
+
+> Test across major browsers, devices, and in front of "real-life" users.
+\- [Manifesto][]
+
+Testing on actual devices is also very important. Resizing a browser window and/or using device simulators cannot substitute for an actual device. The "[Device Testing][Appendix 3]" section in of the Appendices lists several useful articles to get you started on testing or building your own testing lab. As a rule of thumb, test on at least four different devices: desktop, tablet, small tablet, and a smartphone. Walk into the Mac store, or Verizon, or AT&T if you have to and test away.
+
+[Manifesto]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/MANIFESTO.md#the-manifesto

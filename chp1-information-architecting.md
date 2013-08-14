@@ -194,57 +194,12 @@ NOTE: For some great examples of how others use paper to prototype checkout:
 
 - [UI & Wireframe Sketches for your Inspiration][Prototyping Examples]
 
-Wireframing
------------
+Content
+-------
 
-**No More Exercises!** At this point it's time to start coding. From the exercises above you have absolutely everything you need to start coding with confidence: the site's information architecture and layout are pretty far along at this point.
+I highly recommend getting real content early on in the development process, preferably before you create wireframes. Nothing can substitute for real content, but unfortunately more times than not you will have to make do without, perhaps a client has not yet delivered it.
 
-Your prototype is the blueprint, and what you code moving forward will serve as your living wireframe. A living wireframe in that if clients/teammates/stakeholders need to review beyond the early exercises, you can send them to a live URL where they can click away. The wireframe will simulate the actual application, in fact the wire firm will become the application. Any changes you make will be reflected immediately. For you, everything from this point forward is just an iteration in the development process.
-
-Having said that: **Revise and Release Often!**
-
-Since we are using git, it's a good idea to always use topic branches as you move along the development process. For example:
-
-    C:\Projects\viewthought>git branch
-      design-header-blue
-      design-header-pic
-    * master
-      mobile-nav-experiment
-      thoughtful-reduction
-      viewthought-1
-      viewthought-2
-      viewthought-3
-      wireframe
-
-After codifying my prototypes here is what I have:
-
-![][Wireframe]
-
-![][Laptop]
-
-Pretty bare-bones, but that will soon change.
-
-NOTE: An assumption I make is that you are a proficient enough front end coder that writing basic markup for your wireframe based on the prototypes we just developed is a no-brainer for you. I hope so!
-
-### Wireframing with Susy
-
-In *The Front End Manifesto* we learned how to [install and implement Susy][Chapter 7 - Manifesto]. It's a powerful tool which I strongly recommend you use. Using it will allow you to quickly lay out the content of your application, set breakpoints, and test across different devices until you zero in on the perfect layout for your project.
-
-One feature that will help you wireframe is the grid background tool:
-
-![][Laptop Grid]
-
-These grid guides are very similar to what [Compass offers][], and can be activated by simply adding the following line to your `.container`'s CSS properties:
-
-    .container
-      +container
-      +susy-grid-background
-
-### Content
-
-I highly recommend getting real content early on in the development process, preferably before visual design. Nothing can substitute for real content, but unfortunately more times than not you will have to make do without, perhaps a client has not yet delivered it.
-
-#### Content Blocks
+### Content Blocks
 
 If you do not have a website's content while architecting, the following article gives a nice overview of how content blocks can be used in situations where content is not known:
 
@@ -270,39 +225,65 @@ Don't forget to set the color:
     img
       background-color: gray
 
-Feedback and Testing
---------------------
+Wireframing
+-----------
 
-One very important thing to practice when designing interfaces is do nothing in isolation, and consider everything you think as intuitive to be wrong! (until proven otherwise) Iterating is key. Get feedback from your end users and refine. If you can't get to them, then ask your neighbor, a friend, or try one of the services listed in the [Feedback Services][Appendix 3] of the Appendices.
+From the exercises above you have absolutely everything you need to start coding with confidence: content, and the site's information architecture and prototype layout are pretty far along at this point.
 
-> Test across major browsers, devices, and in front of "real-life" users.
-\- [Manifesto][]
+If your paper prototype is the blueprint, what you code moving forward is a living wireframe. A living wireframe in that when clients, teammates, and/or stakeholders need to review beyond the early exercises, you can send them to a live URL where they can click away and resize all they want.
 
-Testing on actual devices is also very important. Resizing a browser window and/or using device simulators cannot substitute for an actual device. The "[Device Testing][Appendix 3]" section in of the Appendices lists several useful articles to get you started on testing or building your own testing lab. As a rule of thumb, test on at least four different devices: desktop, tablet, small tablet, and a smartphone. Walk into the Mac store, or Verizon, or AT&T if you have to and test away.
+The wireframe will simulate the actual application, in fact the wireframe will become the application. For you, everything from this point forward is just an iteration in the development process so **revise and release often!**
 
-At the end of our information architecting cycle, with our basic content and layouts in place, here's what we're left with across several different devices:
+TIP: Since we are using git, it's a good idea to always use topic branches as you move along the development process. For example:
+
+    C:\Projects\viewthought>git branch
+      design-header-blue
+      design-header-pic
+    * master
+      mobile-nav-experiment
+      thoughtful-reduction
+      viewthought-1
+      viewthought-2
+      viewthought-3
+      wireframe
+
+### From Paper to Browser
+
+**No More Exercises!** At this point it's time to start coding, and after coding my prototypes here is what I have:
+
+![][Wireframe]
+
+![][Laptop]
+
+Pretty bare-bones, but that will soon change.
+
+NOTE: An assumption I make is that you are a proficient enough front end coder that writing basic markup for your wireframe based on the prototypes we just developed is a no-brainer for you. I hope so!
+
+### Wireframing with Susy
+
+In *The Front End Manifesto* we learned how to [install and implement Susy][Chapter 7 - Manifesto]. It's a powerful tool which I strongly recommend you use. Using it will allow you to quickly lay out the content of your application, set breakpoints, and test across different devices until you zero in on the perfect layout for your project.
+
+One feature that will help you wireframe is the grid background tool:
+
+![][Laptop Grid]
+
+These grid guides are very similar to what [Compass offers][], and can be activated by simply adding the following line to your `.container`'s CSS properties:
+
+    .container
+      +container
+      +susy-grid-background
+
+Using Susy to wireframe, at the end of our information architecting cycle, with our basic content and layouts in place, here's what we're left with across several different devices:
 
 ![][Multidevice]
 
-We were able to rapidly create wireframes across multiple devices by using [Susy breakpoints][Susy]. Test it out here:
+A complete wireframe, that is also responsive across multiple devices through [Susy breakpoints][]. Test it out here:
 
 - http://viewthought-0.herokuapp.com/
 
 Now all that we need to do is make our wireframes look pretty! We will tackle this head beginning with Chapter 2, "[Visual Design for the Nondesigner][Chapter 2]".
 
-What We've Done
----------------
-
-In this chapter we began with a discussion on storytelling and how important it is to information architecting and visual design. We then described how storytelling in information architecting is similar to traditional mosaics in that both are comprised of bits of information that together tell a story.
-
-Understanding our own storyline, we began a process of converting our thoughts into a living wireframe through the use of two techniques:
-
-1. Index Card Exercise
-2. Prototyping on Paper
-
-Together these two exercises, along with the foundation code we already laid out in chapters 1 -  3, made wireframing a cinch. To further ease the creation process I also recommended the use of Susy, and ended with a quick talk on content.
-
-The end result of this chapter's work is a complete wireframe, ready for the next step in storytelling, but before we move onto visual design consider this for a moment: As front end developers we oftentimes think in terms of boxes. Notice our wireframe is essentially a layout of different content boxes. As we move into design mode [in the next chapter][Chapter 2] we need to completely change how we use our brains.
+NOTE: As front end developers we oftentimes think in terms of boxes. Notice our wireframe is essentially a layout of different content boxes. As we move into design mode [in the next chapter][Chapter 2] we need to completely change how we use our brains.
 
 Just remember, less is more and KISS (Keep It Simple Stupid).
 
@@ -337,13 +318,13 @@ Just remember, less is more and KISS (Keep It Simple Stupid).
 [Mobile Sketching]:     http://uxdesign.smashingmagazine.com/2012/09/18/free-download-ux-sketching-wireframing-templates-mobile/
 [Prototyping Examples]: http://webdesignledger.com/inspiration/ui-wireframe-sketches-for-your-inspiration
 
-[Chapter 5 - Susy]:     https://github.com/maxxiimo/coding-design/blob/master/chp5-mobile-foundation.md#mobile-foundation#using-susy
-[Compass offers]:       http://compass-style.org/reference/compass/layout/grid_background/
-
 [Content First]:        http://alwaystwisted.com/post.php?s=2012-10-13-content-first
 [Client Content]:       http://webdesign.tutsplus.com/articles/workflow/using-content-templates-to-get-your-clients-thinking-content-first/
 [Content Templates]:    http://alistapart.com/article/content-templates-to-the-rescue
 [Dummy Image]:          http://dummyimage.com
+
+[Compass offers]:       http://compass-style.org/reference/compass/layout/grid_background/
+[Susy breakpoints]:    https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp7-susy.md#susy-breakpoints
 
 [Storytelling]:         http://chrismaxwell.com/coding-design/chp-1/storytelling.jpg
 [Mosaic]:               http://chrismaxwell.com/coding-design/chp-1/mosaic-800px.gif

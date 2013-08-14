@@ -21,10 +21,13 @@ Table of Contents
       - [Alternative Approaches][]
       - [The Importance of This Exercise][Importance]
   - [Prototyping on Paper][]
+  - [Content][]
+      - [Content Blocks][]
+      - [Getting Content][]
+      - [Placeholders][]
   - [Wireframing][]
+      - [From Paper to Browser][]
       - [Wireframing with Susy][]
-      - [Content][]
-  - [Feedback and Testing][]
   - [What We've Done][]
 
 &sect;2 [Look and Feel][Section II]
@@ -129,12 +132,14 @@ Table of Contents
 [ViewThought]:          https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#introducing-the-viewthought-case-study
 [Alternative Approaches]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#alternative-approaches
 [Importance]:           https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#the-importance-of-this-exercise
-
 [Prototyping on Paper]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#prototyping-on-paper
-[Wireframing]:          https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#wireframing
-[Wireframing with Susy]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#wireframing-with-susy
 [Content]:              https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#content
-[Feedback and Testing]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#feedback-and-testing
+[Content Blocks]:       https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#content-blocks
+[Getting Content]:      https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#getting-content
+[Placeholders]:         https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#placeholders
+[Wireframing]:          https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#wireframing
+[From Paper to Browser]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#from-paper-to-browser
+[Wireframing with Susy]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#wireframing-with-susy
 [What We've Done]:      https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#what-weve-done
 
 [Branding]:             https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#branding
