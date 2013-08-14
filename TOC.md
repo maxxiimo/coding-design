@@ -139,6 +139,7 @@ Table of Contents
 [Wireframing]:          https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#wireframing
 [From Paper to Browser]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#from-paper-to-browser
 [Wireframing with Susy]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#wireframing-with-susy
+[The End Result]:       https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#the-end-result
 
 [Branding]:             https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#branding
 [Modular Scales]:       https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#modular-scales
