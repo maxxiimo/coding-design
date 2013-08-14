@@ -1,10 +1,10 @@
 Information Architecting
 ========================
 
-In [The Front End Manifesto][Front End Manifesto] we laid down the foundation of our application by:
+In [The Front End Manifesto][Manifesto Book] we laid down the foundation of our application by:
 
-1. Defining our base [markup][Chapter 1] and [styles][Chapter 3].
-2. Choosing a [mobile][Chapter 5] content delivery strategy.
+1. Defining our base [markup][Chapter 1 - Manifesto] and [styles][Chapter 3 - Manifesto].
+2. Choosing a [mobile][Chapter 5 - Manifesto] content delivery strategy.
 
 NOTE: You do not need to read *The Front End Manifesto* to follow along with this book, although if you are setting up a Ruby on Rails application it wouldn't be a bad idea to do so.
 
@@ -201,9 +201,7 @@ Wireframing
 
 Your prototype is the blueprint, and what you code moving forward will serve as your living wireframe. A living wireframe in that if clients/teammates/stakeholders need to review beyond the early exercises, you can send them to a live URL where they can click away. The wireframe will simulate the actual application, in fact the wire firm will become the application. Any changes you make will be reflected immediately. For you, everything from this point forward is just an iteration in the development process.
 
-Having said that:
-
-**Revise and Release Often!**
+Having said that: **Revise and Release Often!**
 
 Since we are using git, it's a good idea to always use topic branches as you move along the development process. For example:
 
@@ -230,13 +228,13 @@ NOTE: An assumption I make is that you are a proficient enough front end coder t
 
 ### Wireframing with Susy
 
-In Chapter 3 we learned how to [install and implement Susy][Chapter 5 - Susy]. It's a powerful tool which I strongly recommend you use. Using it will allow you to quickly layout of the content of your application, set breakpoints, and test across different devices until you zero in on the perfect layout for your project.
+In *The Front End Manifesto* we learned how to [install and implement Susy][Chapter 7 - Manifesto]. It's a powerful tool which I strongly recommend you use. Using it will allow you to quickly lay out the content of your application, set breakpoints, and test across different devices until you zero in on the perfect layout for your project.
 
 One feature that will help you wireframe is the grid background tool:
 
 ![][Laptop Grid]
 
-These grid guides are very similar to what [Compass offers][], and can be activated by simply adding the following line to your .container's CSS properties:
+These grid guides are very similar to what [Compass offers][], and can be activated by simply adding the following line to your `.container`'s CSS properties:
 
     .container
       +container
@@ -244,9 +242,7 @@ These grid guides are very similar to what [Compass offers][], and can be activa
 
 ### Content
 
-Two words on content:
-
-Content First
+Two words on content: **Content First**
 
 I highly recommend getting real content early on in the development process, preferably before visual design. If you do not have a website's content while architecting, the following article gives a nice overview of how content blocks can be used in situations where content is not known, perhaps a client has not yet delivered it:
 
@@ -282,7 +278,11 @@ At the end of our information architecting cycle, with our basic content and lay
 
 ![][Multidevice]
 
-We were able to rapidly create wireframes across multiple devices by using [Susy breakpoints][Susy]. Now all that we need to do is make our wireframes look pretty! We will tackle this head beginning with Chapter 2, "[Visual Design for the Nondesigner][Chapter 2]".
+We were able to rapidly create wireframes across multiple devices by using [Susy breakpoints][Susy]. Test it out here:
+
+- http://viewthought-0.herokuapp.com/
+
+Now all that we need to do is make our wireframes look pretty! We will tackle this head beginning with Chapter 2, "[Visual Design for the Nondesigner][Chapter 2]".
 
 What We've Done
 ---------------
@@ -300,13 +300,17 @@ The end result of this chapter's work is a complete wireframe, ready for the nex
 
 Just remember, less is more and KISS (Keep It Simple Stupid).
 
-[Front End Manifesto]:  https://github.com/maxxiimo/the-front-end-manifesto/blob/master/TOC.md
+[Manifesto Book]:      https://github.com/maxxiimo/the-front-end-manifesto/blob/master/TOC.md
 [Manifesto]:            https://github.com/maxxiimo/the-front-end-manifesto/blob/master/MANIFESTO.md#the-manifesto
-[Chapter 1]:            https://github.com/maxxiimo/coding-design/blob/master/chp1-foundation-markup.md#foundation-markup
-[Chapter 3]:            https://github.com/maxxiimo/coding-design/blob/master/chp3-foundation-styles.md#foundation-styles
-[Chapter 5]:            https://github.com/maxxiimo/coding-design/blob/master/chp5-mobile-foundation.md#mobile-foundation
+
 [Chapter 2]:           https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#visual-design-for-the-nondesigner
 [Chapter 6]:           https://github.com/maxxiimo/coding-design/blob/master/chp6-slicing-and-dicing-mockups.md#slicing-and-dicing-mockups
+
+[Chapter 1 - Manifesto]: https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp1-foundation-markup.md#foundation-markup
+[Chapter 3 - Manifesto]: https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp3-foundation-styles.md#foundation-styles
+[Chapter 5 - Manifesto]: https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp5-mobile-foundation.md#mobile-foundation
+[Chapter 7 - Manifesto]: https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp7-susy.md#susy
+
 [Appendix 1]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-1
 [Appendix 2]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-2
 [Appendix 3]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-3
@@ -334,8 +338,6 @@ Just remember, less is more and KISS (Keep It Simple Stupid).
 [Client Content]:       http://webdesign.tutsplus.com/articles/workflow/using-content-templates-to-get-your-clients-thinking-content-first/
 [Content Templates]:    http://alistapart.com/article/content-templates-to-the-rescue
 [Dummy Image]:          http://dummyimage.com
-
-[Susy]:                 https://github.com/maxxiimo/coding-design/blob/master/chp3-mobile-on-rails.md#susy-breakpoints
 
 [Storytelling]:         http://chrismaxwell.com/coding-design/chp-1/storytelling.jpg
 [Mosaic]:               http://chrismaxwell.com/coding-design/chp-1/mosaic-800px.gif
