@@ -253,13 +253,13 @@ No More Exercises! At this point it's time to start coding, and after coding my 
 
 ![][Laptop]
 
-Pretty bare-bones, but that will soon change. Here it is on a mobile device:
+Pretty bare-bones, but that will soon change. Here are the various pages of the wireframe on a mobile device:
 
 ![][Wireframe]
 
-I mention this to remind you to always check mobile!
+I'm showing you mobile to remind you to always check mobile!
 
-NOTE: An assumption I make is that you are a proficient enough front end coder that writing basic markup for your wireframe based on the prototypes we just developed is a no-brainer for you. I hope so!
+NOTE: An assumption I will make throughout this book is that you are a proficient enough front end coder that writing basic markup is not a problem for you. I hope so!
 
 ### Wireframing with Susy
 
