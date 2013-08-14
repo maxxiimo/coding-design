@@ -250,11 +250,13 @@ TIP: Since we are using git, it's a good idea to always use topic branches as yo
 ### From Paper to Browser
 
 No More Exercises! At this point it's time to start coding, and after coding my prototypes here is what I have:
-
+<br>
+<br>
 ![][Laptop]
 
 Pretty bare-bones, but that will soon change. Here are the various pages of the wireframe on a mobile device:
-
+<br>
+<br>
 ![][Wireframe]
 
 I'm showing you mobile to remind you to always check mobile!
@@ -266,7 +268,8 @@ NOTE: An assumption I will make throughout this book is that you are a proficien
 In *The Front End Manifesto* we learned how to [install and implement Susy][Chapter 7 - Manifesto]. It's a powerful tool which I strongly recommend you use. Using it will allow you to quickly lay out the content of your application, set breakpoints, and test across different devices until you zero in on the perfect layout for your project.
 
 One feature that will help you wireframe is the grid background tool:
-
+<br>
+<br>
 ![][Laptop Grid]
 
 These grid guides are very similar to what [Compass offers][], and can be activated by simply adding the following line to your `.container`'s CSS properties:
@@ -276,7 +279,8 @@ These grid guides are very similar to what [Compass offers][], and can be activa
       +susy-grid-background
 
 Using Susy to wireframe, at the end of our information architecting cycle, with our basic content and layouts in place, here's what we're left with across several different devices:
-
+<br>
+<br>
 ![][Multidevice]
 
 A complete wireframe, that is also responsive across multiple devices through [Susy breakpoints][]. Test it out here:
