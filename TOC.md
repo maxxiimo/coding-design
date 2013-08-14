@@ -28,7 +28,6 @@ Table of Contents
   - [Wireframing][]
       - [From Paper to Browser][]
       - [Wireframing with Susy][]
-  - [What We've Done][]
 
 &sect;2 [Look and Feel][Section II]
 ------------------------------------
@@ -140,7 +139,6 @@ Table of Contents
 [Wireframing]:          https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#wireframing
 [From Paper to Browser]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#from-paper-to-browser
 [Wireframing with Susy]: https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#wireframing-with-susy
-[What We've Done]:      https://github.com/maxxiimo/coding-design/blob/master/chp1-information-architecting.md#what-weve-done
 
 [Branding]:             https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#branding
 [Modular Scales]:       https://github.com/maxxiimo/coding-design/blob/master/chp2-visual-design-for-the-nondesigner.md#modular-scales
