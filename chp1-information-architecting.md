@@ -101,15 +101,15 @@ Index Card Exercise
 
 The first technique involves the use of index cards to create a physical inventory of possible information components. It's best to do this exercise with others, especially stakeholders in the project. Here are the steps I follow:
 
-*Step 1:* Write down in a word or two on an index card what the card represents: content, function, a navigational element, an image, video, whatever.
+**Step 1**: Write down in a word or two on an index card what the card represents: content, function, a navigational element, an image, video, whatever.
 
 Think of as many components to the page or application as you can - I prefer dealing with a single view at a time, like the homepage.
 
 NOTE: Color coding is helpful.
 
-*Step 2:* Lay out the index cards on a table, organize them into logical groups like navigational or footer areas.
+**Step 2**: Lay out the index cards on a table, organize them into logical groups like navigational or footer areas.
 
-*Step 3:* Review the cards on the table and start eliminating the cards that you don't want to include. Don't be conservative in eliminating.
+**Step 3**: Review the cards on the table and start eliminating the cards that you don't want to include. Don't be conservative in eliminating.
 
 > KISS (keep it simple stupid)
 
@@ -281,6 +281,7 @@ These grid guides are very similar to what [Compass offers][], and can be activa
 ### The End Result
 
 Using Susy to wireframe, with our basic content and layouts in place, here's what we're left with across several different devices:
+<br>
 <br>
 <br>
 ![][Multidevice]
