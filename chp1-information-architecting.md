@@ -249,13 +249,15 @@ TIP: Since we are using git, it's a good idea to always use topic branches as yo
 
 ### From Paper to Browser
 
-**No More Exercises!** At this point it's time to start coding, and after coding my prototypes here is what I have:
-
-![][Wireframe]
+No More Exercises! At this point it's time to start coding, and after coding my prototypes here is what I have:
 
 ![][Laptop]
 
-Pretty bare-bones, but that will soon change.
+Pretty bare-bones, but that will soon change. Here it is on a mobile device:
+
+![][Wireframe]
+
+I mention this to remind you to always check mobile!
 
 NOTE: An assumption I make is that you are a proficient enough front end coder that writing basic markup for your wireframe based on the prototypes we just developed is a no-brainer for you. I hope so!
 
