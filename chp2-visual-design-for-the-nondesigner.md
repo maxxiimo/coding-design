@@ -149,7 +149,9 @@ NOTE: I generally keep the defaults but change the Preferences -> Font Name to "
 
 ![][Symbols]
 
-**Step 3**: Download your fonts. Copy the zipped folder `fonts` into your `app/asset/images` folder. Save the original in `vendor/source`.
+**Step 3**: Download your fonts. Export or copy the folder `fonts` into your `app/asset` folder, i.e. you will be creating a new fonts folder within the asset folder.
+
+NOTE: It's a good idea to save the original in `vendor/source`.
 
 **Step 4**: Create the HTML that will handle your new fonts, for example:
 
@@ -190,7 +192,7 @@ Already defined in `_misc.sass`:
       top: -9999px
       left: -9999px
 
-Call your new mixin were needed as follows:
+**Step 7**: Call your new mixin were needed as follows:
 
     [data-icon]:before
       +data-icon
@@ -200,6 +202,8 @@ For example if needed in your footer:
     footer
       [data-icon]:before
         +data-icon
+
+NOTE: If you serve assets from Amazon S3 you encounter cross-site issues iin some browsers like Firefox. To resolve this checkout [this Stackoverflow  question][S3 Cross-site].
 
 ### Icon Fonts To Play With
 
@@ -445,6 +449,8 @@ I'm going to have a contact us form on the site and thought this would be  a gre
 [Big List]:             http://css-tricks.com/flat-icons-icon-fonts/
 [Pipeline]:             http://myrailslearnings.wordpress.com/2012/05/01/getting-font-face-to-work-with-the-asset-pipeline/
 [Icon Font Support]:    http://blog.kaelig.fr/post/33373448491/testing-font-face-support-on-mobile-and-tablet
+[S3 Cross-site]:        http://stackoverflow.com/questions/11261805/rails-3-font-face-failing-in-production-with-firefox
+
 [Sprites]:              http://railscasts.com/episodes/334-compass-css-sprites
 [Compass Sprites]:      http://compass-style.org/help/tutorials/spriting/
 
