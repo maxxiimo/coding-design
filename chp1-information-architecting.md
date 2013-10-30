@@ -39,11 +39,11 @@ Jason Santa Maria pointed out this site in in his 2008 presentation I mentioned.
 A Mosaic of Information
 -----------------------
 
-To build our story we should first explore what it means to organize a websites information and function.
+To build our story we should first explore what it means to organize a websites information and function. As an Information Architect (IA), when I think about an applications layout I literally think about how a site is "laid out" on a screen. I think in terms of the organization of information and function for an end-user's consumption. In this IA role, when speaking about layout I might say something like, "Wow! That's a great layout," or "I don't like the layout of this site, it's too confusing, maybe you should move this over there."
 
-> As a front end person, oftentimes taking the role of Information Architect, when I think about layout I literally think about how a site is laid out on a screen. I don't think in terms of code, but more so in terms of organization of information and function for an end-user's consumption.
+<br>
 
-\- [Chapter 1 - The Front End Manifesto][Chapter 1 Quote]
+![][Layout]
 
 How does "organizing information and function" relate to storytelling? I like to think about it in terms of traditional mosaics. What is a mosaic if not a bunch of smaller things coming together to form a meaningful whole:
 
@@ -312,7 +312,6 @@ NOTE: As front end developers we oftentimes think in terms of boxes. Notice our 
 [Move People]:          http://hbr.org/web/special-collections/insight/communication/storytelling-that-moves-people
 [Jason Santa Maria]:    http://jasonsantamaria.com/
 
-[Chapter 1 Quote]:      https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp1-foundation-markup.md#foundation-markup
 [Wikipedia]:            https://en.wikipedia.org/wiki/Mosaic
 
 [Don't Make Me Think]:  http://www.sensible.com/index.html
@@ -334,6 +333,7 @@ NOTE: As front end developers we oftentimes think in terms of boxes. Notice our 
 [Susy Breakpoints]:     https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp7-susy.md#susy-breakpoints
 
 [Storytelling]:         http://chrismaxwell.com/coding-design/chp-1/storytelling.jpg
+[Layout]:               http://chrismaxwell.com/manifesto/chp-1/layout-sm.png
 [Mosaic]:               http://chrismaxwell.com/coding-design/chp-1/mosaic-800px.gif
 [Index Card Reference]: http://chrismaxwell.com/coding-design/chp-1/index-cards/index-card-reference.gif
 [Index Before]:         http://chrismaxwell.com/coding-design/chp-1/index-cards/index-cards-before.jpg

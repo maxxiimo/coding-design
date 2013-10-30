@@ -683,27 +683,32 @@ Appendix 8
 
 #### Image Based Color Generators
 
-1.  [color hunter][]
+1.  [Adobe Kuler][]
+
+2.  [color hunter][]
 
     > create and find color palettes made from images
 
-2.  [Color Palette FX][]
+3.  [Color Palette FX][]
 
     > Color Palette FX is a color tool for print and web design that creates color palettes from photos.
 
-3.  [Color Palette Generator][]
+4.  [Color Palette Generator][]
 
     > Generate a color palette based on an image.
 
-4.  [Genopal][]
+5.  [COLRD Image DNA][]
+
+
+6.  [Genopal][]
 
     > Create harmonious colour schemes with Genopal
 
-5.  [Image to Colors Palette Generator][Image to Colors]
+7.  [Image to Colors Palette Generator][Image to Colors]
 
     > Welcome to CSS Drive's Image to Colors Palette Generator! Upload an image to generate a color palette based on the image's primary colors. Useful for quickly grabbing a particular color within an image for inspiration.
 
-6. [Pictaculous][]
+8. [Pictaculous][]
 
     > Ever wonder what colors to use with an image? Upload your image – get a color palette!
 
@@ -1063,9 +1068,11 @@ See what your customers see.
 [Color Wizard]:         http://www.colorsontheweb.com/colorwizard.asp
 [Sphere]:               http://mudcu.be/sphere/
 
+[Adobe Kuler]:          https://kuler.adobe.com/create/color-wheel/
 [color hunter]:         http://www.colorhunter.com/
 [Color Palette FX]:     http://www.palettefx.com/
 [Color Palette Generator]: http://jrm.cc/color-palette-generator/
+[COLRD Image DNA]:      http://colrd.com/create/image-dna/
 [Genopal]:              http://www.genopal.com/
 [Image to Colors]:      http://www.cssdrive.com/imagepalette/
 [Pictaculous]:          http://pictaculous.com/
