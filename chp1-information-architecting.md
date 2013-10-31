@@ -333,7 +333,7 @@ NOTE: As front end developers we oftentimes think in terms of boxes. Notice our 
 [Susy Breakpoints]:     https://github.com/maxxiimo/the-front-end-manifesto/blob/master/chp7-susy.md#susy-breakpoints
 
 [Storytelling]:         http://chrismaxwell.com/coding-design/chp-1/storytelling.jpg
-[Layout]:               http://chrismaxwell.com/manifesto/chp-1/layout-sm.png
+[Layout]:               http://chrismaxwell.com/coding-design/chp-1/layout-sm.png
 [Mosaic]:               http://chrismaxwell.com/coding-design/chp-1/mosaic-800px.gif
 [Index Card Reference]: http://chrismaxwell.com/coding-design/chp-1/index-cards/index-card-reference.gif
 [Index Before]:         http://chrismaxwell.com/coding-design/chp-1/index-cards/index-cards-before.jpg
