@@ -601,6 +601,8 @@ Over the years I've referred to different articles when determining font size fo
 
 15. *11/08/12* - [Why Ems?][BH15]
 
+16. *11/00/13* - [Which CSS Measurements To Use When][BH16]
+
 
 
 <br><hr /><br>
@@ -1043,6 +1045,7 @@ See what your customers see.
 [BH13]:                 http://filamentgroup.com/lab/how_we_learned_to_leave_body_font_size_alone/
 [BH14]:                 http://filamentgroup.com/lab/on_ems_and_rems/
 [BH15]:                 http://css-tricks.com/why-ems/
+[BH16]:                 http://demosthenes.info/blog/775/which-css-measurements-to-use-when#
 
 
 
