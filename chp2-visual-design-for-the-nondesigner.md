@@ -205,6 +205,10 @@ For example if needed in your footer:
 
 NOTE: If you serve assets from Amazon S3 you encounter cross-site issues iin some browsers like Firefox. To resolve this checkout [this Stackoverflow  question][S3 Cross-site].
 
+For further information on setting up icon fonts checkout:
+
+- [Bulletproof Accessible Icon Fonts][Bulletproof]
+
 ### Icon Fonts To Play With
 
 After completing the creation steps I now have the following fonts to play with:
@@ -482,6 +486,7 @@ I'm going to have a contact us form on the site and thought this would be  a gre
 [Icon Fonts 1]:         http://www.chrismaxwell.com/coding-design/chp-2/icon-font-nav.gif
 [Icon Fonts 2]:         http://www.chrismaxwell.com/coding-design/chp-2/icon-font-social.gif
 [Symbols]:              http://www.chrismaxwell.com/coding-design/chp-2/symbols.gif
+[Bulletproof]:          http://filamentgroup.com/lab/bulletproof_icon_fonts/
 [Collection]:           http://www.chrismaxwell.com/coding-design/chp-2/collection.gif
 [Icon Sample]:          http://www.chrismaxwell.com/coding-design/chp-2/30-toolbar-icons.jpg
 [Icon Slider]:          http://www.chrismaxwell.com/coding-design/chp-2/icon-slider.png
