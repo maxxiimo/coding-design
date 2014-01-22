@@ -28,6 +28,8 @@ Appendices
 9.  [Browser and Mobile Testing][Appendix 9]
     :: A roundup of everything you need to test for cross browser issues and mobile rendering.
 
+10. [Browser Info][Appendix 10]
+    :: A roundup of browser market share, countdown, support and comparisons/compatibility wwebsites.
 
 
 <br><hr /><br>
@@ -502,7 +504,7 @@ The tools I've listed, if needed, will help you deliver a superior typographic e
 
 <br><hr /><br>
 Appendix 6
------------
+----------
 
 ### Choosing Typefaces
 
@@ -565,7 +567,7 @@ NOTE: This work is [copyrighted][].
 
 <br><hr /><br>
 Appendix 7
------------
+----------
 
 ### A Brief History of Web Font Sizes
 
@@ -607,7 +609,7 @@ Over the years I've referred to different articles when determining font size fo
 
 <br><hr /><br>
 Appendix 8
------------
+----------
 
 ### Color Tools
 
@@ -752,7 +754,7 @@ Appendix 8
 
 <br><hr /><br>
 Appendix 9
------------
+----------
 
 ### Browser and Mobile Testing
 
@@ -871,6 +873,58 @@ See what your customers see.
 
 
 
+<br><hr /><br>
+Appendix 10
+-----------
+
+#### Browser Market Share and Countdowns
+
+1.  [Realtime Web Analytics With no Sampling][Web Analytics]
+
+    > NetMarketShare.com ::  Market Share Statistics for Internet Technologies
+
+    [Methodology][]
+
+2.  [IE6 Countdown][]
+
+    > Over 10 years ago, a browser was born. Its name was Internet Explorer 6. Now that we're in 2014, in an era of modern web standards, it's time to say goodbye.
+
+3.  [Windows XP SP3 and Office 2003 Support Ends April 8th, 2014][Windows XP]
+
+    >
+
+4.  [The Internet Explorer 8 Countdown][IE8 Countdown]
+
+    > This website is dedicated to watching Internet Explorer 8 usage drop to less than 1% worldwide, so more websites can choose to drop support for Internet Explorer 8, saving hours of work for web developers.
+
+#### Browser Support and Comparisons/Compatibility
+
+1.  [Comparison of layout engines (HTML)][Layout Engines]
+
+    > The following tables compare HTML compatibility and support for a number of layout engines.
+
+2.  [Internet Explorer Testing Center][IE Testing Center]
+
+    > For developers, consumers, and enterprises successful W3C and Ecma International web standards are important for defining browser behavior. Comprehensive test suites help drive clear and complete standards, well-written specifications, and interoperable web browsers that render the same markup consistently.
+
+3.  [HTML5test][]
+
+    > how well does your browser support HTML5?
+
+4.  [FindMeByIP Browser Support Revealed][Revealed]
+
+    > A free tool from Bath & Bristol Web Design Agency
+
+5.  [“Send clients a url and get detailed reports”][Send Clients]
+
+    > FindMeByIP enables you to easily find out information about your clients' web browser and operating environment.
+
+6.  [Can I use...][]
+
+    > Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
+
+
+
 [Appendix 1]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-1
 [Appendix 2]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-2
 [Appendix 3]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-3
@@ -880,6 +934,7 @@ See what your customers see.
 [Appendix 7]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-7
 [Appendix 8]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-8
 [Appendix 9]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-9
+[Appendix 10]:          https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-10
 
 
 
@@ -1122,3 +1177,18 @@ See what your customers see.
 [Adobe Edge Inspect]:   http://html.adobe.com/edge/inspect/
 [BlackBerry Simulators]: http://us.blackberry.com/sites/developers/resources/simulators.html
 [Opera Mobile Emulator]: http://www.opera.com/developer/mobile-emulator
+
+
+
+[Web Analytics]:        http://www.netmarketshare.com/browser-market-share.aspx?qprid=2&qpcustomd=0
+[Methodology]:          http://www.netmarketshare.com/faq.aspx#Methodology
+[IE6 Countdown]:        http://www.modern.ie/ie6countdown
+[Windows XP]:           http://www.microsoft.com/en-us/windows/enterprise/endofsupport.aspx
+
+[IE8 Countdown]:        http://theie8countdown.com/
+[Layout Engines]:       http://en.wikipedia.org/wiki/Comparison_of_layout_engines_%28HTML%29
+[IE Testing Center]:    http://samples.msdn.microsoft.com/ietestcenter/
+[HTML5test]:            http://html5test.com/
+[Revealed]:             http://fmbip.com/
+[Send Clients]:         http://fmbip.com/get-started/
+[Can I use...]:         http://caniuse.com/
