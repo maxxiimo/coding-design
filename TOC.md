@@ -206,4 +206,4 @@ Table of Contents
 [Appendix 7]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-7
 [Appendix 8]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-8
 [Appendix 9]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-9
-[Appendix 9]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-10
+[Appendix 10]:          https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-10
