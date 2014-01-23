@@ -903,23 +903,27 @@ Appendix 10
 
     > The following tables compare HTML compatibility and support for a number of layout engines.
 
-2.  [Internet Explorer Testing Center][IE Testing Center]
+2.  [HTML5 Please][]
+
+    > Use the new and shiny responsibly. Look up HTML5, CSS3, etc features, know if they are ready for use, and if so find out how you should use them – with polyfills, fallbacks or as they are.
+
+3.  [Internet Explorer Testing Center][IE Testing Center]
 
     > For developers, consumers, and enterprises successful W3C and Ecma International web standards are important for defining browser behavior. Comprehensive test suites help drive clear and complete standards, well-written specifications, and interoperable web browsers that render the same markup consistently.
 
-3.  [HTML5test][]
+4.  [HTML5test][]
 
     > how well does your browser support HTML5?
 
-4.  [FindMeByIP Browser Support Revealed][Revealed]
+5.  [FindMeByIP Browser Support Revealed][Revealed]
 
     > A free tool from Bath & Bristol Web Design Agency
 
-5.  [“Send clients a url and get detailed reports”][Send Clients]
+6.  [“Send clients a url and get detailed reports”][Send Clients]
 
     > FindMeByIP enables you to easily find out information about your clients' web browser and operating environment.
 
-6.  [Can I use...][]
+7.  [Can I use...][]
 
     > Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
 
@@ -1184,9 +1188,10 @@ Appendix 10
 [Methodology]:          http://www.netmarketshare.com/faq.aspx#Methodology
 [IE6 Countdown]:        http://www.modern.ie/ie6countdown
 [Windows XP]:           http://www.microsoft.com/en-us/windows/enterprise/endofsupport.aspx
-
 [IE8 Countdown]:        http://theie8countdown.com/
+
 [Layout Engines]:       http://en.wikipedia.org/wiki/Comparison_of_layout_engines_%28HTML%29
+[HTML5 Please]:         http://html5please.com/
 [IE Testing Center]:    http://samples.msdn.microsoft.com/ietestcenter/
 [HTML5test]:            http://html5test.com/
 [Revealed]:             http://fmbip.com/
