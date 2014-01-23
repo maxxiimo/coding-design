@@ -32,7 +32,7 @@ Appendices
     :: A roundup of browser market share, countdown, support and comparisons/compatibility wwebsites.
 
 
-<br><hr /><br>
+<br><br><br>
 Appendix 1
 ----------
 
@@ -142,7 +142,7 @@ Some response a web design examples:
 
 
 
-<br><hr /><br>
+<br><br><br>
 Appendix 2
 ----------
 
@@ -174,7 +174,7 @@ Image placeholders in different sizes and styles are also plentiful. The second 
 
 
 
-<br><hr /><br>
+<br><br><br>
 Appendix 3
 ----------
 
@@ -258,7 +258,7 @@ A roundup of feedback services and device testing articles.
 
 
 
-<br><hr /><br>
+<br><br><br>
 Appendix 4
 ----------
 
@@ -418,7 +418,7 @@ Here you will find recommendations for:
 
 
 
-<br><hr /><br>
+<br><br><br>
 Appendix 5
 ----------
 
@@ -502,7 +502,7 @@ The tools I've listed, if needed, will help you deliver a superior typographic e
 
 
 
-<br><hr /><br>
+<br><br><br>
 Appendix 6
 ----------
 
@@ -565,7 +565,7 @@ NOTE: This work is [copyrighted][].
 
 
 
-<br><hr /><br>
+<br><br><br>
 Appendix 7
 ----------
 
@@ -607,7 +607,7 @@ Over the years I've referred to different articles when determining font size fo
 
 
 
-<br><hr /><br>
+<br><br><br>
 Appendix 8
 ----------
 
@@ -752,7 +752,7 @@ Appendix 8
 
 
 
-<br><hr /><br>
+<br><br><br>
 Appendix 9
 ----------
 
@@ -873,7 +873,7 @@ See what your customers see.
 
 
 
-<br><hr /><br>
+<br><br><br>
 Appendix 10
 -----------
 
