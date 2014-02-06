@@ -6,7 +6,7 @@ Table of Contents
 ### [Introduction][]
 
 ### [Prologue][]
-  - [Paradigm Shift][]
+  - [The Role of Front End Engineers, A Paradigm Shift][Paradigm Shift]
 
 &sect;1 [Content][Section I]
 ------------------------------------

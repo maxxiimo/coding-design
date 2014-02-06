@@ -1,32 +1,43 @@
 Prologue
 --------
 
-### Paradigm Shift
+### The Role of Front End Engineers, A Paradigm Shift
 
-Over the last several years I've noticed a paradigm shift in the role that front end engineers play in the design process. Back in the day for really great design you absolutely needed a Graphic Designer. Today,  this is not an absolute must like it once used to be.
+Over the last several years I've noticed a paradigm shift in the role that front-end engineers play in the website design process. Back in the day, great website design was difficult without a graphic designer; and decision-makers tended to gravitate towards brainstorming on usability and information architecture at the graphic design phase of the development process – which began and oftentimes ended before front-end engineers were really involved. Today this is no longer the case. The role of front-end engineers has changed. If you are a front-end engineer, or a project manager still doing it the old way, read on. It might not be the best way. Let me explain.
 
-Before, unless you could work Adobe Photoshop or Adobe Illustrator like there was no tomorrow, Graphic Designers were the ones who produced: rounded corners, cool fonts, gradients, translucent images, buttons, icons, icon sprites, etc..
+#### That Was Then
 
-In addition to design elements, Graphic Designers created visual mockups of a website that non-coding stakeholders could "touch and feel", i.e. actually see and understand. Discussion and changes could then be made around these mockups, before any engineering costs were incurred, and doing so was almost always more efficient and cost-effective.
+Before CSS3, without advanced Adobe Photoshop or Illustrator knowledge graphic designers were the ones who produced design elements like rounded corners, nonstandard OS fonts for headers, background gradients, good-looking buttons, icons, and so forth. It couldn't be done with code, and the visual medium to deliver these elements to project stakeholders was the design mockup:
 
-As a result,, decision-makers would gravitate towards brainstorming on usability, architecting, and the design aspects of a project at the graphic design phase in the development process: that began and oftentimes ended before front end engineers were really involved.
+![Mockup Example](https://silvrback.s3.amazonaws.com/uploads/42b70c0a-b194-4fa7-9171-423c1a792d6a/mockup_large.gif)
 
-Back then that kind of made sense, it was a simpler world, one design could almost fit all, and things happening in the browser were not as super interactive as they are today. Consequently, front-end developers found the bulk of their contribution to a project on the implementation side of things; turning completed mockups into code. Front-end developers understood what kind of code the backend team needed and how they would use it, and they had the skills necessary to turn graphic design into pixel perfect – the standard of excellence back then – cross browser friendly code.
+Non-coding stakeholders – customers, project managers, executives  – liked mockups because they could actually see and understand what the final product might look like. Changes could be made quickly. Consequently, discussion centered around mockups; before any front-end engineering costs were incurred. Doing so was almost always more efficient and cost-effective.
 
-Fast-forward to today and everything has changed:
+For these reasons front-end developers found the bulk of their contribution to projects on the implementation side of things, i.e. turning completed mockups into code. We understood what kind of code the back-end team needed and had the skills necessary to turn graphic design into pixel perfect – the standard of excellence back then – cross browser friendly code.
 
-- HTML5 and CSS3 have made it possible – preferable – to produce design elements directly in the browser, as code rather than images.
-- It is increasingly more efficient to produce dynamic and responsive prototypes with the benefits of CSS3, rather than static mockups.
-- Much of what is happening on the front end cannot be easily replicated in a static mockup.
-- Prototyping by nature is more representative of how a webpage will ultimately look and behave across different devices.
-- Users can instantly access and interact with a prototype, not with a mockup.
-- One size no longer fits all. Technologies and devices are rapidly changing.
-- Understanding the resulting capabilities and/or limitations of browsers and devices in a constantly evolving landscape is not a luxury but a necessity, and an area of expertise more often than not found with front end engineers.
+#### This Is Now
 
-As a result of these changes; usability, architecting and design decisions are beginning to convalesce around the point in which front-end code is written, namely, prototyping... as opposed to around graphic design mockups. Design elements do feed into prototyping, and are necessary, but today, the absence of front-end developers in the design process is no longer an option.
+Fast-forward to today and the predominantly implementation-only role of front-end engineers has changed. The catalyst: CSS3, JavaScript frameworks, and mobile.
 
-The end result of the paradigm shift for the design and development process is a more rapid, iterative, interactive, and [agile design process][].
+CSS3 made it possible to produce design elements directly in the browser as code rather than image mockups. Need a corner radius on an element? No problem, there is a property for that. Need to respond to different screen sizes? Done. Need a color gradient? Easy. (And the list goes on.) Advances in CSS have made it increasingly more efficient to produce dynamic and responsive prototypes with CSS3 rather than static mockups.
 
-The takeaway in relation to this blog is that as front end engineers you need to understand that your role is changing. With the abilities of CSS3, think of yourself as a coder and an artist. You are the handshake between design and backend engineering, and can work in either realm. With this new role, in addition to coding prowess, understanding the elements of good design, the art, is essential to your success and the success of projects you will participate in.
+Add JavaScript and what is happening on the front end cannot be easily demonstrated in a static mockup. Take for example jQuery and its plethora of community developed plug-ins. how do you show the interactivity of some of these plug-ins with a mockup?  I'm not saying it can't be done, but what's the better way?
 
-Coding Design is written to help developers along this path, but before exploring this art let me leave you with one final thought: never undervalue the hard earned design talents of graphic designers. Beautiful design is not easy.
+CSS and JavaScript, however, are only the tip of the iceberg. Mobile is the game changer. Before mobile the one-size-fits-all static mockup paradigm could work, but today, forgetaboutit.
+
+![Devices](https://silvrback.s3.amazonaws.com/uploads/27622cce-a610-4d80-a51e-d10494d201b1/apple-icons-1_large.png)
+
+There's just too much variation, and the variation  is beginning to go well beyond the typical screen sizes shown above. Browser prototyping by nature is more representative of how a webpage will ultimately look and behave across different devices. Users can instantly access and interact with a prototype on any device anywhere, but not with a mockup, and understanding the capabilities and/or limitations of browsers and devices in a constantly evolving landscape is a necessity; an area of expertise more often than not found with front-end engineers.
+
+#### The Action is in the Browser
+
+Yesterday the action centered around the design mockup, but today, usability, information architecture, and design decisions are beginning to convalesce around the point where front-end code is written, namely, browser prototyping. Of course design mockups are incredibly useful in informing prototypes, but bringing front-end engineers to the center of the design and development process from the get go will translate into a more rapid, iterative, interactive, and agile design process.
+
+#### Changing Roles
+
+The takeaway for front-end engineers... your role is changing. Think of yourself as a coder and an artist. Your canvas, the viewport. You are the handshake between design and logic and can work in either realm. With this changing role, in addition to coding prowess, understanding the elements of good design, the "art," is essential to your success and the success of projects you participate in.
+
+One final thought: never undervalue the hard earned design talents of graphic designers. Beautiful design is not easy.
+
+[Why Codesign Tools are the Future of Web Design][Tools]
+[Tools]: http://boagworld.com/design/why-codesign-tools-are-the-future-of-web-design/
