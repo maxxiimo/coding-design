@@ -130,17 +130,17 @@ For the demo project here is what my application layout looks like:
     !!!
     = head
     %body
-      = chromeframe
+      = browsehappy
       %header{:id => 'hd', :role => "banner"}
         #container
-          = render :partial => 'shared/logo'
-          = render :partial => 'shared/utility'
+          = render 'shared/logo'
+          = render 'shared/utility'
       #container
-        = render :partial => 'shared/tabs'
+        = render 'shared/tabs'
         #main{:role => "main"}
-          = render :partial => 'shared/breadcrumbs'
+          = render 'shared/breadcrumbs'
           = yield
-        = render :partial => 'shared/footer'
+        = render 'shared/footer'
     = scripts
 
 A slight variation in our foundation [layout file][application] to accommodate the design needs of this project. Using our foundation markup with Compass grid backgrounds on, here's what our project looks like:
