@@ -9,7 +9,7 @@ Over the last several years I've noticed a paradigm shift in the role that front
 
 Before CSS3, without advanced Adobe Photoshop or Illustrator knowledge graphic designers were the ones who produced design elements like rounded corners, nonstandard OS fonts for headers, background gradients, good-looking buttons, icons, and so forth. It couldn't be done with code, and the visual medium to deliver these elements to project stakeholders was the design mockup:
 
-![Mockup Example](https://silvrback.s3.amazonaws.com/uploads/42b70c0a-b194-4fa7-9171-423c1a792d6a/mockup_large.gif)
+![][Mockup]
 
 Non-coding stakeholders – customers, project managers, executives  – liked mockups because they could actually see and understand what the final product might look like. Changes could be made quickly. Consequently, discussion centered around mockups; before any front-end engineering costs were incurred. Doing so was almost always more efficient and cost-effective.
 
@@ -25,7 +25,7 @@ Add JavaScript and what is happening on the front end cannot be easily demonstra
 
 CSS and JavaScript, however, are only the tip of the iceberg. Mobile is the game changer. Before mobile the one-size-fits-all static mockup paradigm could work, but today, forgetaboutit.
 
-![Devices](https://silvrback.s3.amazonaws.com/uploads/27622cce-a610-4d80-a51e-d10494d201b1/apple-icons-1_large.png)
+![][Screens]
 
 There's just too much variation, and the variation  is beginning to go well beyond the typical screen sizes shown above. Browser prototyping by nature is more representative of how a webpage will ultimately look and behave across different devices. Users can instantly access and interact with a prototype on any device anywhere, but not with a mockup, and understanding the capabilities and/or limitations of browsers and devices in a constantly evolving landscape is a necessity; an area of expertise more often than not found with front-end engineers.
 
@@ -41,3 +41,6 @@ One final thought: never undervalue the hard earned design talents of graphic de
 
 [Why Codesign Tools are the Future of Web Design][Tools]
 [Tools]: http://boagworld.com/design/why-codesign-tools-are-the-future-of-web-design/
+
+[Mockup]:               http://chrismaxwell.com/coding-design/prologue/mockup.gif
+[Screens]:              http://chrismaxwell.com/coding-design/prologue/apple-icons.png
