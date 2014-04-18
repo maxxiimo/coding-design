@@ -39,8 +39,17 @@ The takeaway for front-end engineers... your role is changing. Think of yourself
 
 One final thought: never undervalue the hard earned design talents of graphic designers. Beautiful design is not easy.
 
+------
+
+Since writing this I stumbled upon this article by the folks at Basecamp that really highlights some of the points I'm writing about:
+
+[Why we skip Photoshop][Skip Photoshop]
+
+------
+
 [Why Codesign Tools are the Future of Web Design][Tools]
-[Tools]: http://boagworld.com/design/why-codesign-tools-are-the-future-of-web-design/
 
 [Mockup]:               http://chrismaxwell.com/coding-design/prologue/mockup.gif
 [Screens]:              http://chrismaxwell.com/coding-design/prologue/apple-icons.png
+[Skip Photoshop]:       https://signalvnoise.com/posts/1061-why-we-skip-photoshop
+[Tools]:                http://boagworld.com/design/why-codesign-tools-are-the-future-of-web-design/
