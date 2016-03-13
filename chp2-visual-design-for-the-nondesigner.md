@@ -136,6 +136,7 @@ What follows are the steps you should take to create your own fonts, but first h
 - [We Love Icon Fonts][Love]
 - [Getting Font-Face to work with the Asset Pipeline][Pipeline]
 - [Testing @font-face Support on Mobile and Tablet][Icon Font Support]
+- [20 Gorgeous Free Icon Fonts to Use in Your Designs][Gorgeous Icons]
 
 ### Creating Your Own Set
 
@@ -453,6 +454,7 @@ I'm going to have a contact us form on the site and thought this would be  a gre
 [Big List]:             http://css-tricks.com/flat-icons-icon-fonts/
 [Pipeline]:             http://myrailslearnings.wordpress.com/2012/05/01/getting-font-face-to-work-with-the-asset-pipeline/
 [Icon Font Support]:    http://blog.kaelig.fr/post/33373448491/testing-font-face-support-on-mobile-and-tablet
+[Gorgeous Icons]:       http://webdesignledger.com/freebies/free-icon-fonts-to-use-in-your-designs
 [S3 Cross-site]:        http://stackoverflow.com/questions/11261805/rails-3-font-face-failing-in-production-with-firefox
 
 [Sprites]:              http://railscasts.com/episodes/334-compass-css-sprites

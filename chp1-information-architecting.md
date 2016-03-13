@@ -161,7 +161,7 @@ I find that the process I just described works best for me, but there are other 
 
 ### The Importance of This Exercise
 
-On a final note on index carding, as a front end developer with years of practice, a huge part of me just wants to bypass this exercise aaltogether and start coding (and change things on the fly as I move along). So why don't I?
+On a final note on index carding, as a front end developer with years of practice, a huge part of me just wants to bypass this exercise alltogether and start coding (and change things on the fly as I move along). So why don't I?
 
 Experience has shown me that the manual process of labeling index cards and laying them out forces me to reflect and think outside of my coding box. It helps me discover new ideas, visualize and refine the information architecture, and not work in isolation (i.e. include others in the process). I find that by doing the exercise there's just enough chance of a better outcome that it's worth trying.
 
@@ -180,7 +180,7 @@ Here are some device mockup resources that will help you sketch:
 - [Interface Sketch][]
 - [UX Sketching And Wireframing Templates For Mobile Projects][Mobile Sketching]
 
-**Step 1**: To begin just simply translate what you indexed in the previous section into what it might look like on a scree, and that's it. There is no Step 2, just a lot of erasing between when you begin and when you end.
+**Step 1**: To begin just simply translate what you indexed in the previous section into what it might look like on a screen, and that's it. There is no Step 2, just a lot of erasing between when you begin and when you end.
 
 Here's what my paper prototype process looks like starting with a blank sheet of paper next to my index cards and ending with a paper prototype:
 

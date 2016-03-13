@@ -4,6 +4,5 @@ Entice action
 KISS (keep it simple stupid)
 Be flexible, don't invest too much ego into a design
 Design for the end-user
-Revise and release often
-
 Don't reinvent the wheel
+Revise and release often

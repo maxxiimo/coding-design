@@ -113,13 +113,13 @@ My preferred service is [Typekit][]. They provides an excellent [series of artic
 
 Typekit is a paid service, [Google Web Fonts][] on the other hand is a free service:
 
-- [A Beginner’s Guide to Using Google Web Fonts][Beginners Guide]
+- [A Beginner’s Guide to Using Google Web Fonts][Beginners Guide 1]
 
 ### Step 3: Pair Typefaces
 
 > You might have already heard this; successful pairing relies on concord, or contrast, but not conflict. That is to say your selected fonts can work well together by sharing certain qualities, or by being completely different from one another. However, font pairs can conflict in a number of ways – being too similar being just one.
 
-\- [A Beginner’s Guide to Pairing Fonts][Beginners Guide]
+\- [A Beginner’s Guide to Pairing Fonts][Beginners Guide 2]
 
 When selecting font families I recommend reviewing the [Combinations][Appendix 4 Combos] section of Appendix 4. Here designers with substantial typographic knowledge and experience have paired fonts, described their personalities or feel, and provide samples to review and choose from.
 
@@ -151,7 +151,7 @@ For View Thought I wasn't too crazy about any of the default combinations and en
 
   > Rooney feels serious yet its rounded shapes and soft curves make for an overall impression of warmth and smoothness.
 
-- [CamingoDos Web][] for our headers and navigation. Oftentimes choosing fonts from the same foundry produces the best combinations. I wanted to use a sans-serif and Rooney Web's bbrother Rooney Sans Web was nice, but CamingoDos felt right.
+- [CamingoDos Web][] for our headers and navigation. Oftentimes choosing fonts from the same foundry produces the best combinations. I wanted to use a sans-serif and Rooney Web's brother Rooney Sans Web was nice, but CamingoDos felt right.
 
   > CamingoDos Web is tailored for use on websites. The fonts are manually hinted for optimal on-screen reading, providing a good performance across different operating systems and browsers.
 
@@ -373,8 +373,9 @@ And that's it! Here is what our site looks like with are new icon fonts, typefac
 [Appendix 4]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-4
 [Appendix 4 Combos]:    https://github.com/maxxiimo/coding-design/blob/master/appendices.md#combinations
 [Appendix 5]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-5
-[Appendix 6]:          https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-6
-[Appendix 8]:          https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-8
+[Appendix 6]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-6
+[Appendix 7]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-7
+[Appendix 8]:           https://github.com/maxxiimo/coding-design/blob/master/appendices.md#appendix-8
 
 [typography]:           http://blog.8thlight.com/billy-whited/2011/07/26/what-is-typography.html
 [95% typography]:       http://informationarchitects.net/blog/the-web-is-all-about-typography-period/
@@ -393,9 +394,9 @@ And that's it! Here is what our site looks like with are new icon fonts, typefac
 [the]:                  https://github.com/maxxiimo/viewthought/blob/master/app/assets/stylesheets/_define.sass
 [details]:              https://github.com/maxxiimo/viewthought/blob/master/app/assets/stylesheets/desktop/_typography.sass
 [Google Web Fonts]:     http://www.google.com/webfonts#
-[Beginners Guide]:      http://designshack.net/articles/css/a-beginners-guide-to-using-google-web-fonts/
+[Beginners Guide 1]:      http://designshack.net/articles/css/a-beginners-guide-to-using-google-web-fonts/
 
-[Beginners Guide]:      http://webdesign.tutsplus.com/articles/typography-articles/a-beginners-guide-to-pairing-fonts/
+[Beginners Guide 2]:      http://webdesign.tutsplus.com/articles/typography-articles/a-beginners-guide-to-pairing-fonts/
 [_head.html.haml]:      https://github.com/maxxiimo/base-haml/blob/master/app/views/layouts/_head.html.haml
 
 [Rooney Web]:           http://www.janfromm.de/typefaces/rooney/overview/

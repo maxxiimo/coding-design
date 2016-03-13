@@ -50,25 +50,37 @@ Of the sites, there is one site that stands above the rest and belongs to no sin
 
     > Awwwards are the awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 
+1.  [Design Meltdown][]
+
+    > In this reincarnation of DMD I seek two main goals. First, to get back to the roots of DMD and publish epic amounts of beautiful work. Second, to embrace the user via a user-centered design methodology that packs the most value as possible into the site.
+
 2.  [Favourite Website Awards (FWA)][FWA]
 
     >  FWA stands for Favourite Website Awards, an industry recognised internet award program and inspirational portal, established in May 2000.
-
-3.  [One Page Love][]
-
-    > One Page Love showcases the best one page website designs on the internet.
 
 4.  [Line25][]
 
     > Line25 Sites of the Week is a weekly roundup of the most outstanding website designs that I stumble across during my every day browsing.
 
-5.  [Pattern Tap][]
+3.  [One Page Love][]
 
-    > ...It's a living classroom, where designers learn what is working well on the Web and why.
+    > One Page Love showcases the best one page website designs on the internet.
+
+3.  [One Page Mania][]
+
+    > One Page Mania is a review showcase of only the best One Page Websites from around the web.
 
 6.  [siteInspire][]
 
     > siteInspire is showcase and CSS gallery featuring the best web design today.
+
+5.  [The Inspiration Stream][]
+
+    > A meticulously curated place of response, a wellspring of INSPIRATION
+
+5.  [Pattern Tap][]
+
+    > ...It's a living classroom, where designers learn what is working well on the Web and why.
 
 7.  [UI Patterns][]
 
@@ -171,6 +183,7 @@ Image placeholders in different sizes and styles are also plentiful. The second 
 2. [List of Dummy Image Generators][Image Generators]
 3. [Functional Placeholder Images][Cambelt]
 4. [Holder.js][]
+5. [placehold.it][]
 
 
 
@@ -304,9 +317,9 @@ Here you will find recommendations for:
 
     > A good script is hard to find. I’m extremely picky when it comes to this particular area of typefaces and tend to hate most of what I see. With this post, you can skip the work of sorting through the crap and cut straight to the awesome scripts that are readable, attractive and perfect for your site.
 
-8.  [TYPECHART][]
+8.  [CSS Font Stack][]
 
-    > Browse web type, grab CSS. TYPECHART lets you flip through, preview and compare web typography while retrieving the CSS.
+    > Web Safe and Web Font Family with HTML and CSS code.
 
 9.  [Revised Font Stack][]
 
@@ -375,6 +388,10 @@ Here you will find recommendations for:
 9.  [Typeface Combinations][]
 
     > Although the idea of typeface combining revolves around contrast, the best serif and sans serif combinations have similar characteristics.
+
+9.  [Type Genius][]
+
+    > Find the perfect font combo for your next project.
 
 #### Mobile
 
@@ -480,13 +497,25 @@ The tools I've listed, if needed, will help you deliver a superior typographic e
 
     > Font­Friend is a book­marklet for typo­graph­i­cally obsessed web design­ers. It enables rapid check­ing of fonts and font styles directly in the browser with­out edit­ing code and refresh­ing pages...
 
-8.  [Typetester][]
+8.  [Type Scale][]
+
+    > A Visual Calculator
+
+9.  [Typetester][]
 
     > The Typetester is an online application for comparison of the fonts for the screen.
 
-9.  [Web Font Specimen][]
+10.  [Web Font Specimen][]
 
     > Real web type in real web context. Web Font Specimen is a handy, free resource web designers and type designers can use to see how typefaces will look on the web.
+
+#### Generator
+
+1.  [Font2Web][]
+
+    > This little tool converts any .ttf (TrueType Font) or .otf (OpenType Font) file to .ttf, .otf, .eot, .woff and .svg files. It also creates a CSS file and a demo HTML file to show you how to use webfonts on your website - using CSS @font-face.
+
+2.  [Web Font Generator][]
 
 ####  Em's
 
@@ -629,43 +658,53 @@ Appendix 8
 
   > This tool was inspired directly by the excellent Creating Color Palettes article by Andy Clarke. It will create 10 shades of the base color, located top-left, at varying degrees of opacity.
 
-5.  [color.hailpixel][]
+5.  [Color Thief][]
 
-6.  [ColorBlender][]
+  > Grab the color palette from an image. Uses Javascript and the canvas tag to make it happen.
+
+6.  [color.hailpixel][]
+
+7.  [ColorBlender][]
 
     > To get started, choose a preferred color using the color picker below, and a 6-color matching palette (a "blend") will be automatically calculated.
 
-7.  [Colorblind Web Page Filter][Colorblind]
+8.  [Colorblind Web Page Filter][Colorblind]
 
-8.  [Color Schemer][]
+9.  [Color Schemer][]
 
   > Online Color Scheme Generator
 
-9.  [Colorspire][]
+10.  [Colorspire][]
 
   > Create Color Schemes, Test Color Combinations
 
-10. [ColorTo.me][]
+11. [ColorTo.me][]
 
     > Create an image, share a pallet.
 
-11. [Contrast Ratio][]
+12. [colourco][]
+
+    > Find your colour scheme.
+
+13. [Contrast Ratio][]
 
     > Easily calculate color contrast ratios. Passing WCAG was never this easy!
 
-12. [Contrast-A][]
+14. [Contrast-A][]
 
     > Contrast-A checks color combinations for sufficient contrast and displays the results according to WCAG 2.0 (Luminance Ratio) as well as the results according to older accessibility guidelines, WCAG 1.0 (Difference in Brightness and Color).
 
-13. [Grab Website Colors - Color Scheme Extraction Tool][Grab Colors]
+15. [Grab Website Colors - Color Scheme Extraction Tool][Grab Colors]
 
     > The website color extraction tool is used to grab colors from a website.
 
-13. [Infohound Color Schemer][Infohound]
+16. [Infohound Color Schemer][Infohound]
 
     > This color schemer is a simple tool to help you experiment with various color schemes for your next web or print project.
 
-15. [Mother-effing hsl][]
+17. [Material UI Colors][Material]
+
+18. [Mother-effing hsl][]
 
 #### Color Wheels
 
@@ -944,17 +983,21 @@ Appendix 10
 
 [WDL]:                  http://webdesignledger.com/category/inspiration
 [Awwwards]:             http://www.awwwards.com/
+[Design Meltdown]:      http://www.designmeltdown.com/
 [FWA]:                  http://www.thefwa.com/
-[One Page Love]:        http://onepagelove.com/
 [Line25]:               http://line25.com/category/inspiration
+[One Page Love]:        http://onepagelove.com/
+[One Page Mania]:       http://www.onepagemania.com/
+[siteInspire]:          http://siteinspire.com/
+[The Inspiration Stream]: http://veerle.duoh.com/inspiration
 [Pattern Tap]:          http://patterntap.com/
-[siteInspire]:          http://siteinspire.com/showcase
 [UI Patterns]:          http://ui-patterns.com/
 [Codrops]:              http://tympanus.net/codrops/
 [Codrops 1]:            http://tympanus.net/codrops/2012/09/28/stop-look-click-attention-grabbing-elements-in-web-design/
 [Codrops 2]:            http://tympanus.net/codrops/2012/09/26/make-a-statement-with-type/
 [Codrops 3]:            http://tympanus.net/codrops/2012/08/17/creative-background-styles-and-trends-in-web-design/
 [Codrops 4]:            http://tympanus.net/codrops/2012/09/20/dashboard-design-elements-for-the-win/
+
 [Inspired UI]:          http://inspired-ui.com/
 [Pattern Tap Mobile]:   http://patterntap.com/?sort_by=created&platform[]=7
 [AppSites]:             http://appsites.com/
@@ -988,6 +1031,7 @@ Appendix 10
 [Image Generators]:     http://www.russellheimlich.com/blog/list-of-dummy-image-generators/
 [Cambelt]:              http://cambelt.co/
 [Holder.js]:            http://imsky.github.com/holder/
+[placehold.it]:         http://placehold.it/
 
 
 
@@ -1019,7 +1063,7 @@ Appendix 10
 [Complete Guide]:       http://www.apaddedcell.com/web-fonts
 [Font Stacks]:          http://css-tricks.com/snippets/css/font-stacks/
 [Google Scripts]:       http://designshack.net/articles/css/the-10-best-script-and-handwritten-google-web-fonts/
-[TYPECHART]:            http://www.typechart.com/
+[CSS Font Stack]:       http://www.cssfontstack.com/
 [Revised Font Stack]:   http://www.awayback.com/revised-font-stack/
 
 [Gorgeous]:             http://www.webdesigndev.com/web-development/16-gorgeous-web-safe-fonts-to-use-with-css
@@ -1038,6 +1082,7 @@ Appendix 10
 [Pairing Fonts]:        http://webdesign.tutsplus.com/articles/typography-articles/pairing-fonts-is-like-feeding-children/
 [Combining Typefaces]:  http://www.fivesimplesteps.com/products/combining-typefaces
 [Typeface Combinations]: http://www.peatah.org/combinations2.html
+[Type Genius]:          http://www.typegenius.com/
 
 [5 Tips]:               http://wixmobile.com/5-tips-for-excellent-mobile-typography
 [Mobile Typography]:    http://tympanus.net/codrops/2012/11/12/mobile-design-typography-is-vitally-important-and-challenging/
@@ -1066,8 +1111,12 @@ Appendix 10
 [Font Stack Builder]:   http://www.codestyle.org/servlets/FontStack
 [Modular Scale]:        http://modularscale.com/
 [FontFriend]:           http://somadesign.ca/projects/fontfriend/
+[Type Scale]:           http://type-scale.com/
 [Typetester]:           http://www.typetester.org/
 [Web Font Specimen]:    http://webfontspecimen.com/
+
+[Font2Web]:             http://www.font2web.com/
+[Web Font Generator]:   https://www.web-font-generator.com/
 
 [Calculator]:           http://tools.the-echoplex.net/font-size/
 [Page width in ems]:    http://www.themaninblue.com/experiment/emWidths/
@@ -1112,16 +1161,19 @@ Appendix 10
 [Color Blender]:        http://meyerweb.com/eric/tools/color-blend/
 [ColorExplorer]:        http://colorexplorer.com/
 [Palette Creator]:      http://slayeroffice.com/tools/color_palette/
+[Color Thief]:          http://lokeshdhakar.com/projects/color-thief/
 [color.hailpixel]:      http://color.hailpixel.com/
 [ColorBlender]:         http://www.colorblender.com/
 [Colorblind]:           http://colorfilter.wickline.org/
 [Color Schemer]:        http://www.colorschemer.com/online.html
 [Colorspire]:           http://www.colorspire.com/
 [ColorTo.me]:           http://colorto.me/
+[colourco]:             http://colourco.de/
 [Contrast Ratio]:       http://leaverou.github.io/contrast-ratio/
 [Contrast-A]:           http://www.dasplankton.de/ContrastA/
 [Grab Colors]:          http://www.colorcombos.com/grabcolors.html
 [Infohound]:            http://infohound.net/colour/
+[Material]:             http://www.materialui.co/colors
 [Mother-effing hsl]:    http://mothereffinghsl.com/
 
 [Adobe Kuler]:          https://kuler.adobe.com/#
