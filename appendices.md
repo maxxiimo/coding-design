@@ -29,7 +29,7 @@ Appendices
     :: A roundup of everything you need to test for cross browser issues and mobile rendering.
 
 10. [Browser Info][Appendix 10]
-    :: A roundup of browser market share, countdown, support and comparisons/compatibility wwebsites.
+    :: A roundup of browser market share, countdown, support and comparisons/compatibility websites.
 
 
 <br><br><br>
